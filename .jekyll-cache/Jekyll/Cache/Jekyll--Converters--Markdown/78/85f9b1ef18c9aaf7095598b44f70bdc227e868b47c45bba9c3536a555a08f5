@@ -1,0 +1,38 @@
+I"�<h3 id="giá-trị-cổ-phiếu-một-công-ty-được-ước-định-như-thế-nào">Giá trị cổ phiếu một công ty được ước định như thế nào?</h3>
+
+<p>Đa số chúng ta mua chứng khoán (stock) của một doanh nghiệp nào đó vì nghĩ rằng giá trị của nó sẽ tăng lên trong tương lai, nhưng lại không thật sự hiểu những yếu tố nào sẽ ảnh hưởng lên sự thay đổi giá trị của một cổ phiếu.</p>
+
+<p>Mọi sản phẩm tài chính đều có những mô hình định giá riêng biệt. Chứng khoán cũng không ngoại lệ. Tuy không cần phải hiểu quá chi tiết về cách định giá chứng khoán, nhưng ít ra, nắm được những nguyên lý cơ bản và các nhân tố bên trong của những mô hình này sẽ giúp chúng ta hiểu rõ các nguyên nhân dẫn đến sự tăng giảm của thị trường chứng khoán.</p>
+
+<p>Mô hình định giá cổ phiếu phổ biến nhất có tên là Discounted Cash Flow Model (tạm dịch là Mô Hình Chiết Khấu Dòng Tiền). Theo mô hình này, thì giá trị của một cổ phiếu được ước định bằng cách tổng hợp tất cả những dòng tiền (Cash Flows) mà cổ phiếu đó có thể tạo ra được trong tương lai, sau đó, chiết khấu (Discounted) về hiện tại bằng cách chia cho một tỷ suất nhất định, tỷ suất này được gọi là Discounted Rate (Tỷ Suất Chiết Khấu - viết tắt là R) theo công thức gần đúng như sau.</p>
+
+<h3 id="stock-value---total-cash-flows--1--r">Stock Value ($) = Total Cash Flows / (1 + R)</h3>
+
+<p>Để cổ phiếu tăng giá thì chúng ta cần Tử Số (Numerator) tăng và/hoặc Mẫu Số (Denominator) giảm.</p>
+
+<ul>
+  <li>
+    <p>Total Cash Flow: là những dòng tiền có thể được tạo ra bởi cổ phiếu, hay nói cách khác chính là Cổ Tức (Dividends) sẽ được trả từ lợi nhuận trong tương lai của doanh nghiệp.</p>
+  </li>
+  <li>
+    <p>R (Discounted Rate): theo mô hình này thì R bao gồm những yếu tố sau.</p>
+    <h4 id="r--interest-rate--inflation-rate--credit-spread--expected-volatility">R = Interest Rate + Inflation Rate + Credit Spread + Expected Volatility</h4>
+    <p>(R = Lãi Suất Trái Phiếu + Tỷ Lệ Lạm Phát + Tỷ Suất Tín Nhiệm + Tỷ Lệ Biến Động Thị Trường)</p>
+  </li>
+</ul>
+
+<p><img src="/img/posts/stock-introduction-02/sm-dcf.png" alt="stock-introduction-02" /></p>
+
+<p>Như có đề cập từ đầu, bạn không cần phải hiểu công thức tính những giá trị này, nhưng chỉ cần hiểu tác động của chúng lên cổ phiếu như sau:</p>
+<ul>
+  <li>Nếu Cash Flow sẽ tăng trong tương lai; ví dụ: công ty trả thêm cổ tức (Higher Dividend), công ty ăn nên làm ra (Higher Earning Rate), thì giá trị cổ phiếu sẽ tăng (Stock Value Up ↑). Và ngược lại.</li>
+  <li>Nếu Interest Rate (còn gọi là Risk-Free Rate) tăng trong tương lai; ví dụ: FED tăng lãi suất, thì giá trị cổ phiếu sẽ giảm (Stock Value Down ↓). (Đây là lý do tại sao FED hiện tại đang cắt giảm lãi suất tối đa =&gt; để thúc đẩy giá trị thị trường chứng khoán).</li>
+  <li>Nếu Inflation Rate (Lạm Phát) tăng trong tương lai; ví dụ: Lạm phát hiện tại đang là 1.3%, nếu tăng lên 2%, thì giá trị cổ phiếu nhìn chung cũng sẽ giảm tương xứng ↓.</li>
+  <li>Nếu Độ Tín Nhiệm (Credit Score) của doanh nghiệp giảm; ví dụ: Doanh nghiệp bị hạ thấp điểm tín nhiệm bởi Moody’s hoặc Credit Suisse, sẽ dẫn đến việc Credit Spread giãn ra (wider) và giá trị của stock sẽ giảm tương xứng ↓. (**Mình sẽ có một bài riêng phân tích về Credit Spread).</li>
+  <li>Sau cùng, nếu thị trường dự đoán sẽ có sự biến động mạnh (High Expected Volatility or High Risk Premium) trong tương lai; ví dụ: Tâm lý đầu tư lo sợ hay hoang mang, VIX tăng, thị trường rơi vào trạng thái bất định và ngờ vực, thì giá trị cổ phiếu cũng sẽ giảm ↓. (Yếu tố này là quan trọng nhất tại thời điểm hiện tại, vì thị trường hiện tại bị chi phối mạnh bởi những nhà đầu tư cá nhân ít kinh nghiệm và dễ bị tổn thương, nên thường bị ảnh hưởng tâm lý trong các quyết định đầu tư cũng như những quyết định thoái vốn. Do đó mà có hiện tượng họ rót tiền đầu tư ào ạt theo đám đông nhưng cũng nhanh chóng bán tháo bán chạy khi bị kích thích và sợ hãi.)</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Như vậy, tuy không cần phải nắm chi tiết những nguyên lý vận động bên trong các mô hình định giá chứng khoán, nhà đầu tư vẫn có thể “nhạy” (sense) được sự tăng giảm của thị trường nếu hiểu rõ những yếu tố tác động lên nó (như trình bày ở trên). Các yếu tố này rất quan trọng để xem xét khi đưa ra các quyết định đầu tư.</p>
+:ET

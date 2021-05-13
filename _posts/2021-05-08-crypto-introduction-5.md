@@ -1,5 +1,6 @@
 ---
 layout: post
+type: 1
 title: "What is Decentralization?"
 subtitle: "Crypto Introduction 5"
 background: '/img/posts/crypto-introduction-5/bg-decentralization.png'

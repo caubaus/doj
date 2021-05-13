@@ -1,0 +1,28 @@
+I"<h2 id="definition">Definition</h2>
+
+<p>PE Ratio là một chỉ số rất quan trọng trong đầu tư chứng khoán. Sẽ thật là bất cẩn nếu như quyết định mua một cổ phiếu nào đó mà lại không xem xét đến giá trị PE Ratio của nó.</p>
+
+<h4 id="pe-ratio-or-price-to-earning-ratio">PE Ratio (or Price-to-Earning Ratio)</h4>
+<h4 id="-price-per-shareearning-per-share">= Price per Share/Earning per Share</h4>
+<h4 id="-giá-cổ-phiếu--lợi-nhuận-cổ-phiếu-mang-lại">= Giá Cổ Phiếu / Lợi Nhuận Cổ Phiếu Mang Lại.</h4>
+
+<p>Có thể hiểu PE Ratio bằng cách tự đặt câu hỏi: Bao nhiêu vốn cần bỏ ra để có thể kiếm được $1 lợi nhuận từ cổ phiếu này?</p>
+<ul>
+  <li>Ví dụ 1: Đối với #AAPL thì PE = 34, nghĩa là: Để có thể kiếm được 1 Dollar lợi nhuận từ cổ phiếu #AAPL thì nhà đầu tư phải bỏ ra số vốn ít nhất là $34.</li>
+  <li>Ví dụ 2: Đối với #WMT thì PE = 21, nghĩa là: Để có thể kiếm được 1 Dollar lợi nhuận từ cổ phiếu #WMT thì nhà đầu tư phải bỏ ra số vốn ít nhất là $21.</li>
+</ul>
+
+<p><img src="/img/posts/stock-introduction-03/sm-pe.png" alt="stock-introduction-03" /></p>
+
+<h2 id="details">Details</h2>
+
+<p>Như vậy, không khó để hình dung PE Ratio càng nhỏ thì hiệu suất lợi nhuận càng lớn. Nghĩa là khi chọn chứng khoán để đầu tư, về lý thuyết chúng ta nên chọn chứng khoán có chỉ số PE càng nhỏ càng tốt. Chỉ số PE nhỏ khi doanh nghiệp hoặc đang bị undervalued hoặc doanh thu và lợi nhuận của doanh nghiệp đang tăng trưởng rất tốt so với quá khứ.</p>
+
+<p>Chỉ số PE càng cao thì hoặc là doanh nghiệp đã overvalued hoặc là nhà đầu tư kỳ vọng rất lớn vào tăng trưởng tương lai của doanh nghiệp (high growth expectation). Ví dụ: #TSLA có PE = 1135, một con số khổng lồ, đây là lý do nhiều nhà đầu tư cho rằng #TSLA đang bị extremely overvalued hoặc là thị trường đang kỳ vọng quá lớn vào công ty này.</p>
+
+<p>Nếu doanh nghiệp không có doanh thu hoặc thua lỗ thì sẽ không có báo cáo chỉ số PE (mẫu số khi đó sẽ bằng 0)</p>
+
+<p>Chỉ số PE trung bình (tương đối lý tưởng) để lựa chọn đầu tư là 21 (theo chỉ số PE của #SPY). Bạn cũng không nên chọn những cổ phiếu có PE quá thấp (&lt; 12) vì thường đó là những cổ phiếu có biên độ dao động lớn (rủi ro cao).</p>
+
+<p>Chỉ số PE không cố định nhưng sẽ thay đổi tùy theo mức giá đang giao dịch của cổ phiếu và tình hình doanh thu của doanh nghiệp.</p>
+:ET

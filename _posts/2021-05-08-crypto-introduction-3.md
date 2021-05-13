@@ -1,5 +1,6 @@
 ---
 layout: post
+type: 1
 title: "What is Ethereum?"
 subtitle: "Crypto Introduction 3"
 background: '/img/posts/crypto-introduction-3/bg-ether.png'

@@ -1,5 +1,6 @@
 ---
 layout: post
+type: 1
 title: "Cryto Staking"
 subtitle: "Crypto Introduction 9"
 background: '/img/posts/crypto-introduction-9/bg-staking.png'

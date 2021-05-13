@@ -1,5 +1,6 @@
 ---
 layout: post
+type: 1
 title: "What is Bitcoin?"
 subtitle: "Crypto Introduction 2"
 background: '/img/posts/crypto-introduction-2/bg-bitcoin.png'

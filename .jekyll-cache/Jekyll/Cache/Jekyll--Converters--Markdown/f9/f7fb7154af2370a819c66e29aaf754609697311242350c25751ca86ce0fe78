@@ -1,0 +1,26 @@
+I"v<p>Chỉ số PB Ratio không được nhiều nhà đầu tư quan tâm và đánh giá một cách nghiêm túc khi ra quyết định mua bán chứng khoán, nhưng nó cũng là một chỉ số rất quan trọng mà nếu hiểu rõ sẽ giúp chúng ta lựa chọn được những cổ phiếu có độ an toàn cao và tỷ suất lợi nhuận lớn.</p>
+
+<h4 id="pb-ratio-or-price-per-book">PB Ratio (or Price-per-Book)</h4>
+<h4 id="-price--book-value">= Price / Book Value</h4>
+<h4 id="-mức-giá-cổ-phiếu--giá-trị-cổ-phiếu-theo-sổ-sách">= Mức Giá Cổ Phiếu / Giá Trị Cổ Phiếu Theo Sổ Sách</h4>
+
+<p>PB Ratio cho phép nhà đầu tư hiểu được mức giá đang giao dịch của một cổ phiếu cao hơn (hay thấp hơn) bao nhiêu lần so với giá trị theo sổ sách kế toán của nó.</p>
+
+<p>Có thể hiểu Book Value là giá trị mà nếu ngay lúc này doanh nghiệp quyết định bán hết tất cả những tài sản hiện có của nó thì doanh nghiệp sẽ thu về được số tiền bằng đúng giá trị này.</p>
+
+<p><img src="/img/posts/stock-introduction-04/sm-pb.png" alt="stock-introduction-04" /></p>
+
+<p>Vậy nếu bạn tìm được một cổ phiếu nào có PB Ratio &lt; 1, điều này có nghĩa là thị trường đang định giá cổ phiếu này thấp hơn cả giá trị theo sổ sách của nó (undervalued). Về mặt lý thuyết là cổ phiếu này nhất định sẽ phải tăng, những trường hợp này thường rất hiếm.</p>
+
+<p>Đa số các cổ phiếu giao dịch trên thị trường đều có PB Ratio &gt; 1. Do đó, theo kinh nghiệm quan sát thị trường thì:</p>
+
+<ul>
+  <li>Nếu PB &lt; 3: Stock Undervalued (Ví dụ: #C Citigroup Inc có PB = 0.55 =&gt; Undervalued)</li>
+  <li>Nếu PB 3 - 5: Stock Fair Valued (Ví dụ: #PFE Pfizer Inc có PB = 3.18 =&gt; Fair Valued)</li>
+  <li>Nếu PB &gt; 5: Stock Overvalued (Ví dụ: #TSLA Tesla có PB = 41.68 =&gt; Extremely Overvalued)</li>
+</ul>
+
+<p>Cũng cần lưu ý, khi đánh giá chỉ số PB của một cổ phiếu, chỉ nên đánh giá một cách tương đối (relative value) như là một giá trị để tham chiếu với các cổ phiếu khác (ví dụ: trong cùng ngành sản xuất kinh doanh). Cổ phiếu các hãng công nghệ thường có PB Ratio cao hơn so với các hãng về bất động sản, ngân hàng và y tế.</p>
+
+<p>Chỉ số PB Ratio cũng sẽ thay đổi qua thời gian tuỳ theo giá trị của cổ phiếu đang giao dịch trên thị trường. Thông thường, để đầu tư lâu dài và an toàn, người ta thường chọn những cổ phiếu có PB Ratio không quá cao (trừ khi họ thật sự kỳ vọng rất nhiều vào tương lai tăng trưởng khổng lồ của chính doanh nghiệp đó, ví dụ như #TSLA #AAPL)</p>
+:ET

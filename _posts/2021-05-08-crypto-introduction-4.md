@@ -1,5 +1,6 @@
 ---
 layout: post
+type: 1
 title: "What is Cryptocurrency Market?"
 subtitle: "Crypto Introduction 4"
 background: '/img/posts/crypto-introduction-4/bg-cryptomarket.png'
