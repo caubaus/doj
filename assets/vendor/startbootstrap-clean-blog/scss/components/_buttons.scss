@@ -12,6 +12,8 @@
 .btn-primary {
     background-color: $primary;
     border-color: $primary;
+    margin: 5px;
+    border-radius: 5px;
 
     &:hover,
     &:focus,
@@ -19,6 +21,21 @@
         color: $white;
         background-color: darken($primary, 7.5) !important;
         border-color: darken($primary, 7.5) !important;
+    }
+}
+
+.btn-orange {
+    background-color: $orange;
+    border-color: $orange;
+    margin: 5px;
+    border-radius: 5px;
+
+    &:hover,
+    &:focus,
+    &:active {
+        color: $white;
+        background-color: darken($orange, 7.5) !important;
+        border-color: darken($orange, 7.5) !important;
     }
 }
 

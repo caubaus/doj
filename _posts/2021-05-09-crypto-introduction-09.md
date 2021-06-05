@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 1
-title: "Cryto Staking"
+title: "Crypto Staking"
 subtitle: "Crypto Introduction 9"
 background: '/img/posts/crypto-introduction-9/bg-staking.png'
 ---
@@ -40,7 +40,7 @@ Gợi ý một số dự án Staking vừa an toàn vừa là đồng coin nhi�
 - Algorand (#ALGO), Lãi suất Staking: 8%-10%/year, Minimum Holding: 2 ALGO
 
 Bạn có thể Stake những coin này ngay trong chính ví điện tử của nó trên sàn Binance US theo các bước như sau:
-- Mở account trên sàn Binance US (Nếu chưa có). Link referral mở sàn của mình: https://accounts.binance.us/en/register?ref=35337845
+- Mở account trên sàn Binance US (Nếu chưa có). Link referral mở sàn của mình: [<span style="color:blue"> Binance.us Referral Link</span>](https://accounts.binance.us/en/register?ref=35337845)
 - Click chọn vào tab [Earn] => chọn tab [Staking].
 - Tới đây sẽ hiện ra tất cả những coins mà Binance US hỗ trợ Staking. Bạn chọn coin mình muốn Stake và click chọn tab [Buy] (nếu bạn đã có coin này ở sàn khác thì có thể click chọn [Deposit] để chuyển coin từ sàn khác về Binance US tham gia Staking).
 - Sau khi mua (hoặc deposit) đủ số coin tối thiểu bạn đã chính thức tham gia Staking.
@@ -59,6 +59,6 @@ Nếu không phải US Residents thì bạn cũng có thể mở sàn Binance In
 - Loom Network (#LOOM), Lãi suất Staking: 10%-12%/year, Minimum Holding: 60 LOOM
 - Kava (#KAVA), Lãi suất Staking: 5%-8%/year, Minimum Holding: 1 KAVA
 - Swipe (#SXP), Lãi suất Staking: 6%-12%/year, Minimum Holding: 1 SXP
-- Các bước tiến hành cũng khá tương tự. Sau khi mở account, bạn click chọn vào tab [Finance] => chọn tab [Staking] => chọn tab [Flexible Staking] sẽ hiện ra những đồng coin có thể tham gia Staking. Link referral mở tài khoản Binance International của mình nếu cần: https://accounts.binance.us/en/register?ref=35337845
+- Các bước tiến hành cũng khá tương tự. Sau khi mở account, bạn click chọn vào tab [Finance] => chọn tab [Staking] => chọn tab [Flexible Staking] sẽ hiện ra những đồng coin có thể tham gia Staking. Link referral mở tài khoản Binance International của mình nếu cần: [<span style="color:blue"> Binance.us Referral Link</span>](https://accounts.binance.us/en/register?ref=35337845)
 
-Ngoài ra Coinbase cũng hỗ trợ Staking một số coin nhất định, tuy nhiên lãi suất có ít hơn Binance US (Ví dụ: Staking Tezos #XTZ hiện trả khoảng 4.67%/year). Bạn có thể tham khảo thêm về cách thức tham gia, các bước cũng khá tương tự Binance US.
+Ngoài ra Coinbase cũng hỗ trợ Staking một số coin nhất định, tuy nhiên lãi suất có ít hơn Binance US (Ví dụ: Staking Tezos #XTZ hiện trả khoảng 4.67%/year). Bạn có thể tham khảo thêm về cách thức tham gia, các bước cũng khá tương tự Binance US. Link mở sàn Coinbase của mình: [<span style="color:blue"> Coinbase Referral Link</span>](https://www.coinbase.com/join/nguyen_qig) 

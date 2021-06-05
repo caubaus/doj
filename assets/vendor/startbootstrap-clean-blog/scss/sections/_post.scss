@@ -51,3 +51,21 @@
 img {
     width: 100%;
 }
+
+.post-header {
+    display: flex;
+    align-items: center;
+}
+
+.post-header img {
+    float: left;
+    width: 150px;
+    height: 150px;
+    background: #555;
+    border-radius: 10px;
+}
+  
+.post-header .post-preview {
+    position: relative;
+    left: 40px;
+}
