@@ -1,9 +1,9 @@
-title:              D1 Journal
+title:              Street One Journals
 email:              dojmarket@gmail.com
 description:        Market Explained
-author:             D1 Journal
+author:             Street One Journals
 baseurl:            ""
-url:                "https://d1j.github.io"
+url:                "https://doj.github.io"
 
 # Social Profiles
 twitter_username:   
@@ -23,3 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+sass:
+  sass_dir: _sass
+  style: compressed
