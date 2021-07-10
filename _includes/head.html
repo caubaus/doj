@@ -31,10 +31,7 @@
     crossorigin="anonymous"
   ></script>
 
-  <link
-    rel="stylesheet"
-    href="{{'/assets/main.css' | prepend: site.baseurl }}"
-  />
+  <link rel="stylesheet" href="{{'/assets/main.css' | absolute_url }}" />
   <link
     rel="canonical"
     href="{{ page.url | replace:'index.html','' | absolute_url }}"
