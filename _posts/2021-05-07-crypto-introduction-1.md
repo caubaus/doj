@@ -12,7 +12,7 @@ Cryptocurrency - Tiền Điện Tử (Tiền Mã Hoá - Tiền Số Hoá - Tiề
 Tiền điện tử là một dạng tiền số hoá trên không gian mạng được bảo vệ bởi một hệ thống mật mã (Cryptography) chắc chắn và an toàn. Hệ thống mật mã này giúp cho các đồng tiền điện tử được luân chuyển minh bạch và chính xác giữa người gửi và người nhận, gần như tuyệt đối sẽ không xảy ra tình trạng một đồng tiền lại được gửi đi 2 nơi đến khác nhau (Double-Spending).
 
 ## Summary
-![crypto-introduction-1](/img/posts/crypto-introduction-1/sm-cryptocurrency.png)
+![crypto-introduction-1](img/posts/crypto-introduction-1/sm-cryptocurrency.png)
 
 ## Details
 
