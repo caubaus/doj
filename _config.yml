@@ -1,24 +1,24 @@
-title:              Street One Journals
-email:              dojmarket@gmail.com
-description:        Market Explained
-author:             Street One Journals
-baseurl:            ""
-url:                "https://trinhdev.github.io/doj/"
+title: Street One Journals
+email: dojmarket@gmail.com
+description: Market Explained
+author: Street One Journals
+url: "trinhdev.github.io"
+baseurl: "/doj"
 
 # Social Profiles
-twitter_username:   
-github_username:    
-facebook_username:  
-instagram_username:  
+twitter_username:
+github_username:
+facebook_username:
+instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+google_analytics: UA-XXXXXXXXX-X # out your google-analytics code
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
