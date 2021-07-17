@@ -28,3 +28,4 @@ sass:
   style: compressed
 exclude:
   - bower_components
+theme: false
