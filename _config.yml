@@ -26,3 +26,5 @@ plugins:
 sass:
   sass_dir: assets
   style: compressed
+exclude:
+  - bower_components

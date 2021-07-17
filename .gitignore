@@ -5,3 +5,4 @@ Gemfile.lock
 *.gem
 vendor/bundle
 .jekyll-cache
+.vscode
