@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 2
-title: "Chỉ Số PE trong Chứng Khoán?"
+title: "Chỉ Số PE trong Chứng Khoán"
 subtitle: "PE Ratio - Stock Introduction 3"
 background: '/img/posts/stock-introduction-03/bg-stock-introduction-03.png'
 ---
