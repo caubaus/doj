@@ -24,8 +24,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 sass:
-  sass_dir: assets
+  load_paths:
+    - assets
+    - _sass
   style: compressed
 exclude:
   - bower_components
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
 theme: false
