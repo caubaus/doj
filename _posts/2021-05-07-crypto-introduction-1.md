@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 1
-title: "What is Cryptocurrency?"
-subtitle: "Crypto Introduction 1"
+title: "Tiền Điện Tử là gì?"
+subtitle: "What is Cryptocurrency - Crypto Introduction 1"
 background: '/img/posts/crypto-introduction-1/bg-cryptocurrency.png'
 ---
 

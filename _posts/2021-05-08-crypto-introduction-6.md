@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 1
-title: "What is Blockchain?"
-subtitle: "Crypto Introduction 6"
+title: "Khái Niệm về Công Nghệ Chuỗi Khối"
+subtitle: "What is Blockchain - Crypto Introduction 6"
 background: '/img/posts/crypto-introduction-6/bg-blockchain.png'
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 1
-title: "What is Cryptocurrency Market?"
-subtitle: "Crypto Introduction 4"
+title: "Thị Trường Tiền Điện Tử là gì?"
+subtitle: "What is Cryptocurrency Market - Crypto Introduction 4"
 background: '/img/posts/crypto-introduction-4/bg-cryptomarket.png'
 ---
 

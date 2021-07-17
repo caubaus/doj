@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 2
-title: "How to value stock of a company?"
-subtitle: "Stock Introduction 2"
+title: "Một Cổ Phiếu được Định Giá như thế nào?"
+subtitle: "How to value stock of a company - Stock Introduction 2"
 background: '/img/posts/stock-introduction-02/bg-stock-introduction-02.png'
 ---
 

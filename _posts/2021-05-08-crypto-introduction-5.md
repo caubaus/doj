@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 1
-title: "What is Decentralization?"
-subtitle: "Crypto Introduction 5"
+title: "Khái Niệm về Phi Tập Trung Hoá"
+subtitle: "What is Decentralization - Crypto Introduction 5"
 background: '/img/posts/crypto-introduction-5/bg-decentralization.png'
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 2
-title: "What is PB Ratio?"
-subtitle: "Stock Introduction 4"
+title: "Chỉ Số PB trong Chứng Khoán"
+subtitle: "PB Ratio - Stock Introduction 4"
 background: '/img/posts/stock-introduction-04/bg-stock-introduction-04.png'
 ---
 

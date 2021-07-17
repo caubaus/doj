@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 2
-title: "What is Beta?"
-subtitle: "Stock Introduction 6"
+title: "Chỉ Số Beta trong Chứng Khoán"
+subtitle: "Beta - Stock Introduction 6"
 background: '/img/posts/stock-introduction-06/bg-stock-introduction-06.png'
 ---
 

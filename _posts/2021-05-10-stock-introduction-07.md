@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 2
-title: "What is Alpha?"
-subtitle: "Stock Introduction 7"
+title: "Chỉ Số Alpha trong Chứng Khoán"
+subtitle: "Alpha - Stock Introduction 7"
 background: '/img/posts/stock-introduction-07/bg-stock-introduction-07.png'
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 1
-title: "What is DeFi?"
-subtitle: "Crypto Introduction 8"
+title: "Khái Niệm về DeFi"
+subtitle: "DeFi - Crypto Introduction 8"
 background: '/img/posts/crypto-introduction-8/bg-defi.png'
 ---
 

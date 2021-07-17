@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 2
-title: "What is Dividend Yield?"
-subtitle: "Stock Introduction 5"
+title: "Lợi Nhuận từ Cổ Tức trong Chứng Khoán"
+subtitle: "Dividend Yield - Stock Introduction 5"
 background: '/img/posts/stock-introduction-05/bg-stock-introduction-05.png'
 ---
 

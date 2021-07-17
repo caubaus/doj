@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 1
-title: "What is Bitcoin?"
-subtitle: "Crypto Introduction 2"
+title: "Khái Niệm về Bitcoin"
+subtitle: "Bitcoin - Crypto Introduction 2"
 background: '/img/posts/crypto-introduction-2/bg-bitcoin.png'
 ---
 

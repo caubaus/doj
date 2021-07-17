@@ -1,8 +1,8 @@
 ---
 layout: post
 type: 2
-title: "What is Stock Market?"
-subtitle: "Stock Introduction 1"
+title: "Khái Niệm về Thị Trường Chứng Khoán"
+subtitle: "What is Stock Market - Stock Introduction 1"
 background: '/img/posts/stock-introduction-01/bg-stock-introduction-01.png'
 ---
 
