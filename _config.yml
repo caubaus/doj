@@ -3,7 +3,7 @@ email: dojmarket@gmail.com
 description: Market Explained
 author: Street One Journals
 url: "trinhdev.github.io"
-baseurl: "/doj"
+baseurl: "/"
 
 # Social Profiles
 twitter_username:
@@ -23,7 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-include-cache
-  - bootstrap
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 sass:
   sass_dir: assets
