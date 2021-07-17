@@ -27,6 +27,7 @@ sass:
   load_paths:
     - assets
     - _sass
+    - node_modules
   style: compressed
 exclude:
   - bower_components
