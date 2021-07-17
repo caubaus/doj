@@ -22,6 +22,8 @@ paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-include-cache
+  - bootstrap
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 sass:
   sass_dir: assets
@@ -30,9 +32,9 @@ sass:
   #   - _sass
   #   - node_modules
   style: compressed
-exclude:
-  - bower_components
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
+# exclude:
+#   - bower_components
+#   - Gemfile
+#   - Gemfile.lock
+#   - LICENSE
+#   - README.md
