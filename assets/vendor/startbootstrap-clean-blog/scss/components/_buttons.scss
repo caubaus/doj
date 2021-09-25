@@ -39,6 +39,36 @@
     }
 }
 
+.btn-danger {
+    background-color: $danger;
+    border-color: $danger;
+    margin: 5px;
+    border-radius: 5px;
+
+    &:hover,
+    &:focus,
+    &:active {
+        color: $white;
+        background-color: darken($danger, 7.5) !important;
+        border-color: darken($danger, 7.5) !important;
+    }
+}
+
+.btn-dark {
+    background-color: $dark;
+    border-color: $dark;
+    margin: 5px;
+    border-radius: 5px;
+
+    &:hover,
+    &:focus,
+    &:active {
+        color: $white;
+        background-color: darken($dark, 7.5) !important;
+        border-color: darken($dark, 7.5) !important;
+    }
+}
+
 .btn-lg {
     font-size: 16px;
     padding: 25px 35px;
