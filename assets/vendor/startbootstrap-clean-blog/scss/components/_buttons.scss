@@ -48,14 +48,14 @@
     &:hover,
     &:focus,
     &:active {
-        color: $white;
+        color: $white !important;
         background-color: darken($danger, 7.5) !important;
         border-color: darken($danger, 7.5) !important;
     }
 }
 
-.btn-yellow {
-    background-color: $warning;
+.btn-black {
+    background-color: $dark;
     border-color: $dark;
     margin: 5px;
     border-radius: 5px;
@@ -64,8 +64,8 @@
     &:focus,
     &:active {
         color: $white;
-        background-color: darken($warning, 7.5) !important;
-        border-color: darken($warning, 7.5) !important;
+        background-color: darken($dark, 7.5) !important;
+        border-color: darken($dark, 7.5) !important;
     }
 }
 
