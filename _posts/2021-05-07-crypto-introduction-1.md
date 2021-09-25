@@ -1,9 +1,9 @@
 ---
 layout: post
-type: 0
+type: 1
 title: "Tiền Điện Tử là gì?"
 subtitle: "What is Cryptocurrency - Crypto Introduction 1"
-author: Nam Le
+author: Trinh Nguyen Ba
 background: '/img/posts/crypto-introduction-1/bg-cryptocurrency.png'
 ---
 
