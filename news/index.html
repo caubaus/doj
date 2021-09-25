@@ -3,6 +3,7 @@ layout: page
 title: News
 background: '/img/bg-news.jpg'
 ---
+LAST UPDATED: {{ 'now' | date: '%B %d, %Y' }}
 {% for post in site.posts %}
   {% if post.type == 0 %} 
     <div class="post-header">
