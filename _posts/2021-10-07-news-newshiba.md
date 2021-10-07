@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 3
+type: 0
 title: "Shiba tang"
 subtitle: "Shiba up"
 author: Trinh Nguyen Ba
