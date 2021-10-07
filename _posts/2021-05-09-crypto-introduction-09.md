@@ -31,7 +31,6 @@ Câu hỏi đặt ra là tại sao người tham gia Staking lại được tr�
 - Giống như tiền giấy, một đồng tiền đều có một mã số (Serial Number) riêng, thì mỗi đồng coin tiền điện tử cũng có một ID khác nhau. Nên các thuật toán sẽ chọn một ID ngẫu nhiên nào đó và giao cho máy chủ chứa đồng coin có ID đó quyền xác nhận giao dịch. Như vậy, để tăng thêm xác suất được chọn, thì những máy chủ này sẽ kêu gọi nhiều người cùng góp coin để cùng Stake (tạo thành Staking Pool), và họ sẵn sàng trả cho những người cùng tham gia một lãi suất nhất định. Vì họ tin rằng khi xác suất được bầu chọn tăng lên, số lần được quyền xác nhận giao dịch cũng tăng lên và nhận thưởng nhiều hơn, số tiền thưởng này đủ lớn để họ trả lãi suất cho các thành viên tham gia Staking.
 
 ## Staking Rates
-![crypto-introduction-9](/img/posts/crypto-introduction-9/info-staking.png)
 
 Gợi ý một số dự án Staking vừa an toàn vừa là đồng coin nhiều tiềm năng tăng trưởng trong tương lai như sau:
 
