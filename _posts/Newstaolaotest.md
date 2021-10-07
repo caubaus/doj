@@ -1,8 +1,8 @@
 ---
 layout: post
-type: 3
+type: 0
 title: "Anh Ba thơm đến mức nào?"
-subtitle: "What is Cryptocurrency - Crypto Introduction 1"
+subtitle: "Hít đi mấy đứa"
 author: Thiên hạ 
 background: 'https://ibb.co/gMVj4NB'
 ---
