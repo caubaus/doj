@@ -1,14 +1,16 @@
 ---
 layout: post
 type: 2
-title: "Chỉ Số Beta trong Chứng Khoán"
-subtitle: "Beta - Stock Introduction 6"
+title: "Chỉ Số Beta"
+subtitle: "Beta - Stock Intro 6"
 background: '/img/posts/stock-introduction-06/bg-stock-introduction-06.png'
 ---
 
-## Definition
+#### Khái quát
 
 Chỉ số Beta giúp đo lường biên độ dao động (Volatility) của một cổ phiếu nào đó so với toàn bộ thị trường (aka S&P 500 Index).
+
+#### Chi tiết
 
 Theo quy ước thì chỉ số S&P 500 có Beta = 1; do đó, nếu một cổ phiếu có:
 - Beta > 1 &#8594; Biên độ dao động lớn so với thị trường, rủi ro cao nhưng lợi nhuận lớn. (High Risk High Return Stock)
@@ -37,3 +39,9 @@ Công thức tính chỉ số Beta mang nặng yếu tố xác suất thống k�
 Một trong những chiến thuật đầu tư rất phổ biến có tên là Beta-Neutral Portfolio (or Market Neutral). Trong đó nhà đầu tư sẽ chọn nhiều loại cổ phiếu khác nhau và nhiều loại sản phẩm tài chính khác nhau, nhưng sẽ cố gắng điều chỉnh liên tục để chỉ số Beta của toàn bộ Portfolio luôn ở con số gần bằng 1; nghĩa là, về mặt lý thuyết thì giá trị của Portfolio này sẽ tăng giảm điều hoà theo sự tăng giảm của toàn bộ thị trường.
 
 Hiểu được chỉ số Beta (β) sẽ giúp nhà đầu tư hiểu được tại sao một số cổ phiếu lại tăng quá mạnh so với thị trường chung, trong khi đó một số cổ phiếu khác lại hầu như không dịch chuyển cùng với thị trường. Có thể tóm gọn lại là, cổ phiếu có chỉ số Beta (β) càng lớn thì càng rủi ro nhưng đồng thời lợi nhuận kỳ vọng cũng sẽ lớn hơn cổ phiếu có chỉ số Beta (β) nhỏ.
+
+Tham khảo: *Fundamentals of Financial Management* by Eugene F. Brigham
+
+Chú thích (Disclaimer):
+*Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
+*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*

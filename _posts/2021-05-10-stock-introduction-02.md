@@ -1,12 +1,12 @@
 ---
 layout: post
 type: 2
-title: "Một Cổ Phiếu được Định Giá như thế nào?"
-subtitle: "How to value stock of a company - Stock Introduction 2"
+title: "Định Giá Cổ Phiếu như thế nào?"
+subtitle: "How to value a stock - Stock Intro 2"
 background: '/img/posts/stock-introduction-02/bg-stock-introduction-02.png'
 ---
 
-### Giá trị cổ phiếu một công ty được ước định như thế nào?
+#### Giá trị cổ phiếu một công ty được ước định như thế nào?
 
 Đa số chúng ta mua chứng khoán (stock) của một doanh nghiệp nào đó vì nghĩ rằng giá trị của nó sẽ tăng lên trong tương lai, nhưng lại không thật sự hiểu những yếu tố nào sẽ ảnh hưởng lên sự thay đổi giá trị của một cổ phiếu.
 
@@ -14,14 +14,16 @@ Mọi sản phẩm tài chính đều có những mô hình định giá riêng 
 
 Mô hình định giá cổ phiếu phổ biến nhất có tên là Discounted Cash Flow Model (tạm dịch là Mô Hình Chiết Khấu Dòng Tiền). Theo mô hình này, thì giá trị của một cổ phiếu được ước định bằng cách tổng hợp tất cả những dòng tiền (Cash Flows) mà cổ phiếu đó có thể tạo ra được trong tương lai, sau đó, chiết khấu (Discounted) về hiện tại bằng cách chia cho một tỷ suất nhất định, tỷ suất này được gọi là Discounted Rate (Tỷ Suất Chiết Khấu - viết tắt là R) theo công thức gần đúng như sau.
 
-### Stock Value ($) = Total Cash Flows / (1 + R)
+#### *Stock Value ($) = Total Cash Flows / (1 + R)*
 
 Để cổ phiếu tăng giá thì chúng ta cần Tử Số (Numerator) tăng và/hoặc Mẫu Số (Denominator) giảm.
 
 - Total Cash Flow: là những dòng tiền có thể được tạo ra bởi cổ phiếu, hay nói cách khác chính là Cổ Tức (Dividends) sẽ được trả từ lợi nhuận trong tương lai của doanh nghiệp.
 
 - R (Discounted Rate): theo mô hình này thì R bao gồm những yếu tố sau.
-#### R = Interest Rate + Inflation Rate + Credit Spread + Expected Volatility
+
+#### *R = Interest Rate + Inflation Rate + Credit Spread + Expected Volatility*
+
 (R = Lãi Suất Trái Phiếu + Tỷ Lệ Lạm Phát + Tỷ Suất Tín Nhiệm + Tỷ Lệ Biến Động Thị Trường)
 
 ![stock-introduction-02](/img/posts/stock-introduction-02/sm-dcf.png)
@@ -33,6 +35,12 @@ Như có đề cập từ đầu, bạn không cần phải hiểu công thức 
 - Nếu Độ Tín Nhiệm (Credit Score) của doanh nghiệp giảm; ví dụ: Doanh nghiệp bị hạ thấp điểm tín nhiệm bởi Moody's hoặc Credit Suisse, sẽ dẫn đến việc Credit Spread giãn ra (wider) và giá trị của stock sẽ giảm tương xứng ↓. (**Mình sẽ có một bài riêng phân tích về Credit Spread).
 - Sau cùng, nếu thị trường dự đoán sẽ có sự biến động mạnh (High Expected Volatility or High Risk Premium) trong tương lai; ví dụ: Tâm lý đầu tư lo sợ hay hoang mang, VIX tăng, thị trường rơi vào trạng thái bất định và ngờ vực, thì giá trị cổ phiếu cũng sẽ giảm ↓. (Yếu tố này là quan trọng nhất tại thời điểm hiện tại, vì thị trường hiện tại bị chi phối mạnh bởi những nhà đầu tư cá nhân ít kinh nghiệm và dễ bị tổn thương, nên thường bị ảnh hưởng tâm lý trong các quyết định đầu tư cũng như những quyết định thoái vốn. Do đó mà có hiện tượng họ rót tiền đầu tư ào ạt theo đám đông nhưng cũng nhanh chóng bán tháo bán chạy khi bị kích thích và sợ hãi.)
 
-## Conclusion
+## Kết luận
 
 Như vậy, tuy không cần phải nắm chi tiết những nguyên lý vận động bên trong các mô hình định giá chứng khoán, nhà đầu tư vẫn có thể “nhạy" (sense) được sự tăng giảm của thị trường nếu hiểu rõ những yếu tố tác động lên nó (như trình bày ở trên). Các yếu tố này rất quan trọng để xem xét khi đưa ra các quyết định đầu tư.
+
+Tham khảo: *Fundamentals of Financial Management* by Eugene F. Brigham
+
+Chú thích (Disclaimer):
+*Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
+*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*

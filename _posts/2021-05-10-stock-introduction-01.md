@@ -1,12 +1,13 @@
 ---
 layout: post
 type: 2
-title: "Khái Niệm về Thị Trường Chứng Khoán"
-subtitle: "What is Stock Market - Stock Introduction 1"
+title: "Thị Trường Chứng Khoán"
+subtitle: "Stock Market - Stock Intro 1"
 background: '/img/posts/stock-introduction-01/bg-stock-introduction-01.png'
 ---
 
-## Definition
+#### Khái quát
+
 Thị trường chứng khoán (hay Thị trường cổ phiếu) là nơi các nhà đầu tư doanh nghiệp và tư nhân có thể giao dịch mua bán và phát hành các sản phẩm chứng khoán (cổ phiếu) của các công ty đã lên sàn (Public Companies). Thị trường chứng khoán phải luôn được quản lý chặt chẽ bằng các luật lệ nghiêm ngặt của nước sở tại.
 
 Cần phân biệt rõ hai khái niệm giữa Thị Trường Chứng Khoán (Stock Market) và Sàn Giao Dịch Chứng Khoán (Stock Exchange). Sàn Giao Dịch Chứng Khoán chỉ là một phần nhỏ của cả Thị Trường Chứng Khoán.
@@ -20,3 +21,9 @@ Có rất nhiều Sàn Giao Dịch Chứng Khoán trên toàn thế giới. Nổ
 - Sàn Giao Dịch Chứng Khoán NASDAQ
 - Sàn Giao Dịch Chứng Khoán London (London Stock Exchange - LSE)
 - Sàn Giao Dịch Chứng Khoán Hồng Kông ( Hong Kong Stock Exchange - HKEX).
+
+Tham khảo: *Fundamentals of Financial Management* by Eugene F. Brigham
+
+Chú thích (Disclaimer):
+*Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
+*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
