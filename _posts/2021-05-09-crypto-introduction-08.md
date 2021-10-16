@@ -27,3 +27,8 @@ Tuy nhiên gần đây có nhiều dự án khác với quy mô và mục tiêu 
 Các dự án DeFi là các dự án về lâu dài, đòi hỏi sự kiên nhẫn của nhà đầu tư, tuy nhiên DeFi được cho là sẽ dẫn đầu trong chu kỳ tăng trưởng mới của thị trường crypto, nên việc tìm hiểu và đầu tư vào các dự án triển vọng và nhiều tiềm năng này là một cơ hội rất lớn để chúng ta tăng trưởng nguồn thu nhập cá nhân.
 
 Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
+
+Chú thích (Disclaimer):
+
+*Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
+*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
