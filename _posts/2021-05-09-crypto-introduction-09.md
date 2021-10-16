@@ -55,16 +55,18 @@ Một số rủi ro cần nắm rõ khi tham gia Staking:
 - Rủi ro đồng coin mất giá: đồng coin bạn Stake sẽ có giá trị giống như trên thị trường, nên khi nó rớt giá thì bạn cũng sẽ mất tiền theo. Rủi ro này là hiển nhiên phải hiểu rồi, khi mua một loại tài sản nào đó (kể cả vàng), luôn luôn có rủi ro nó sẽ rớt giá trị.
 
 Nếu không phải US Residents thì bạn cũng có thể mở sàn Binance International để tham gia Staking nhiều loại coin hơn với tỉ suất trả cao hơn (và cũng rất tiềm năng tăng trưởng về lâu dài) như:
+
 - Loom Network (#LOOM), Lãi suất Staking: 10%-12%/year, Minimum Holding: 60 LOOM
 - Kava (#KAVA), Lãi suất Staking: 5%-8%/year, Minimum Holding: 1 KAVA
 - Swipe (#SXP), Lãi suất Staking: 6%-12%/year, Minimum Holding: 1 SXP
-- Các bước tiến hành cũng khá tương tự. Sau khi mở account, bạn click chọn vào tab [Finance] => chọn tab [Staking] => chọn tab [Flexible Staking] sẽ hiện ra những đồng coin có thể tham gia Staking. Link referral mở tài khoản Binance International của mình nếu cần: [<span style="color:blue"> Binance.us Referral Link</span>](https://accounts.binance.us/en/register?ref=35337845)
+
+Các bước tiến hành cũng khá tương tự. Sau khi mở account, bạn click chọn vào tab [Finance] => chọn tab [Staking] => chọn tab [Flexible Staking] sẽ hiện ra những đồng coin có thể tham gia Staking. Link referral mở tài khoản Binance International của mình nếu cần: [<span style="color:blue"> Binance.us Referral Link</span>](https://accounts.binance.us/en/register?ref=35337845)
 
 Ngoài ra Coinbase cũng hỗ trợ Staking một số coin nhất định, tuy nhiên lãi suất có ít hơn Binance US (Ví dụ: Staking Tezos #XTZ hiện trả khoảng 4.67%/year). Bạn có thể tham khảo thêm về cách thức tham gia, các bước cũng khá tương tự Binance US. Link mở sàn Coinbase của mình: [<span style="color:blue"> Coinbase Referral Link</span>](https://www.coinbase.com/join/nguyen_qig) 
 
 
-Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
+Tham khảo: *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
 
 Chú thích (Disclaimer):
 *Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
-*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
+*Các bài viết trên Streetone.org (ngoài những bài có trích nguồn) là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*

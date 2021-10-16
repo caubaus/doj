@@ -14,7 +14,7 @@ Mọi sản phẩm tài chính đều có những mô hình định giá riêng 
 
 Mô hình định giá cổ phiếu phổ biến nhất có tên là Discounted Cash Flow Model (tạm dịch là Mô Hình Chiết Khấu Dòng Tiền). Theo mô hình này, thì giá trị của một cổ phiếu được ước định bằng cách tổng hợp tất cả những dòng tiền (Cash Flows) mà cổ phiếu đó có thể tạo ra được trong tương lai, sau đó, chiết khấu (Discounted) về hiện tại bằng cách chia cho một tỷ suất nhất định, tỷ suất này được gọi là Discounted Rate (Tỷ Suất Chiết Khấu - viết tắt là R) theo công thức gần đúng như sau.
 
-#### *Stock Value ($) = Total Cash Flows / (1 + R)*
+> #### *Stock Value ($) = Total Cash Flows / (1 + R)*
 
 Để cổ phiếu tăng giá thì chúng ta cần Tử Số (Numerator) tăng và/hoặc Mẫu Số (Denominator) giảm.
 
@@ -22,7 +22,7 @@ Mô hình định giá cổ phiếu phổ biến nhất có tên là Discounted 
 
 - R (Discounted Rate): theo mô hình này thì R bao gồm những yếu tố sau.
 
-#### *R = Interest Rate + Inflation Rate + Credit Spread + Expected Volatility*
+>> #### *R = Interest Rate + Inflation Rate + Credit Spread + Expected Volatility*
 
 (R = Lãi Suất Trái Phiếu + Tỷ Lệ Lạm Phát + Tỷ Suất Tín Nhiệm + Tỷ Lệ Biến Động Thị Trường)
 
@@ -43,4 +43,4 @@ Tham khảo: *Fundamentals of Financial Management* by Eugene F. Brigham
 
 Chú thích (Disclaimer):
 *Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
-*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
+*Các bài viết trên Streetone.org (ngoài những bài có trích nguồn) là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*

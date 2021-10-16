@@ -23,8 +23,8 @@ Tuy các đồng tiền điện tử như Bitcoin (BTC) và Ether (ETH) không b
 
 Ở Mỹ có các sàn lớn như Coinbase, Gemini, Crypto.com, BlockFi, Binance và Kucoin. (Robinhood và Webull cũng có hỗ trợ mua bán một số đồng tiền điện tử nhất định tuy nhiên Robinhood và Webull không hỗ trợ ví điện tử).
 
-Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
+Tham khảo: *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
 
 Chú thích (Disclaimer):
 *Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
-*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
+*Các bài viết trên Streetone.org (ngoài những bài có trích nguồn) là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*

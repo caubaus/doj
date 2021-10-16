@@ -45,8 +45,8 @@ Những rủi ro (risk) cần nắm rõ khi tham gia Crypto Lending:
 
 Crypto Lending là một công cụ có độ an toàn rất cao để nhà đầu tư có thể kiếm thêm thu nhập thụ động một cách ổn định, vừa được nhận lãi suất cao vừa được hưởng lợi trên đà tăng trưởng của đồng coin trong tương lai nên rất đáng được xem xét và nghiên cứu kỹ lưỡng.
 
-Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
+Tham khảo: *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
 
 Chú thích (Disclaimer):
 *Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
-*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
+*Các bài viết trên Streetone.org (ngoài những bài có trích nguồn) là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*

@@ -19,8 +19,8 @@ Có một chỗ rất nhiều bạn nhầm lẫn, ETF thật ra không nhất th
 
 Phân biệt được 2 khái niệm này sẽ giúp cho bạn có được lợi thế rất lớn khi ra các quyết định đầu tư. Mình trích nguyên văn một đoạn trong bài báo của Reuters ngày hôm nay Oct 15th:
 
-*“Under the rule sets used by the ETF issuers, the SEC does not have to give explicit approval to the ETFs, which can be launched at the end of a 75-day period if the U.S. regulator has no objections.
-The 75-day time period for the ProShares Bitcoin Strategy ETF ends on Monday, and the ETF can be launched on Tuesday.”*
+>> *“Under the rule sets used by the ETF issuers, the SEC does not have to give explicit approval to the ETFs, which can be launched at the end of a 75-day period if the U.S. regulator has no objections.*
+>> *The 75-day time period for the ProShares Bitcoin Strategy ETF ends on Monday, and the ETF can be launched on Tuesday.”*
 
 Một điểm cần lưu ý nữa, cũng giống như lúc Bitcoin Future ra đời vào cuối 2017, những sản phẩm tài chính phái sinh (Derivatives) như thế này luôn là con dao 2 lưỡi. Nó là công cụ cho các quỹ để tham gia đầu tư nhưng cũng là vũ khí để họ ‘huỷ diệt nến’. Nghĩa là, giờ đây các quỹ có thể tự do LONG (mua) hoặc SHORT (bán khống) #Bitcoin bất kể khi nào họ muốn. Nếu họ LONG thì mọi chuyện rất ‘ổn áp’ êm đềm và #BTC cứ thế mà tăng. Nhưng một khi họ quyết định SHORT thì cho dù ’đại uý vuốt nến’ hay ‘đại tỉ thổi nến’ cũng không thể làm cho #Bitcoin ‘lên là lên là lên’ được nữa. 
 
@@ -30,5 +30,5 @@ Hoàn toàn không có ý định hù doạ (No FUD), mình rất Bullish #Bitco
 
 Chú thích (Disclaimer):
 *Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
-*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
+*Các bài viết trên Streetone.org (ngoài những bài có trích nguồn) là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
 

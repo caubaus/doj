@@ -28,8 +28,8 @@ Nhiệm vụ căn bản của Blockchain là lưu lại toàn bộ thông tin c�
 
 Hệ thống Blockchain này được điều hành bởi một mạng lưới các máy chủ riêng lẻ (Nodes) và rời rạc trên toàn cầu. Những máy chủ này được kết nối thông qua mạng Internet, sẽ kiểm tra và xác nhận các giao dịch bằng cách giải các bài toán phức tạp (Math Puzzle), máy chủ nào giải được bài toán trước sẽ được giao quyền xác nhận giao dịch và nhận phần thưởng (Reward) là chính những đồng tiền điện tử này (Ví dụ: hiện tại với Bitcoin #BTC thì mỗi lần giải được bài toán thì máy chủ sẽ nhận được 6.25 BTC = $375k, đối với các đồng tiền khác thì phần thưởng ít hơn nhưng xác suất được nhận cao hơn nhiều so với Bitcoin). Các thao tác như vậy được gọi là Coin Mining (Đào Tiền Điện Tử).
 
-Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
+Tham khảo: *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
 
 Chú thích (Disclaimer):
 *Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
-*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
+*Các bài viết trên Streetone.org (ngoài những bài có trích nguồn) là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*

@@ -24,8 +24,8 @@ Tại thời điểm hiện tại, đối với Bitcoin, mỗi máy chủ xác n
 
 Cũng tại thời điểm hiện tại, nếu đào Ether (#ETH) thì giả sử giá tiền điện chỗ bạn là $0.10/kWH, và bạn dùng khoảng 10 thẻ Graphic Cards AMD Radeon RX 580 (cộng phụ tùng thì tổng chi phí vào khoảng $5000), bạn sẽ thu về khoảng $55/ngày. Nghĩa là sẽ lấy lại vốn sau khoảng 3-4 tháng (nhanh hay chậm còn tuỳ theo giá trị đồng #ETH trên thị trường). Sau đó thì là tiền lời.
 
-Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
+Tham khảo: *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
 
 Chú thích (Disclaimer):
 *Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
-*Các bài viết trên Streetone.org là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
+*Các bài viết trên Streetone.org (ngoài những bài có trích nguồn) là sản phẩm của Streetone.org, xin vui lòng dẫn nguồn nếu chia sẻ nơi khác (Please cite us).*
