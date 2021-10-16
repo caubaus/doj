@@ -7,15 +7,15 @@ author: Trinh Nguyen Ba
 background: '/img/posts/crypto-introduction-1/bg-cryptocurrency.png'
 ---
 
-## Definition
+## Định nghĩa
 Cryptocurrency - Tiền Điện Tử (Tiền Mã Hoá - Tiền Số Hoá - Tiền Thuật Toán)
 
 Tiền điện tử là một dạng tiền số hoá trên không gian mạng được bảo vệ bởi một hệ thống mật mã (Cryptography) chắc chắn và an toàn. Hệ thống mật mã này giúp cho các đồng tiền điện tử được luân chuyển minh bạch và chính xác giữa người gửi và người nhận, gần như tuyệt đối sẽ không xảy ra tình trạng một đồng tiền lại được gửi đi 2 nơi đến khác nhau (Double-Spending).
 
-## Summary
+## Tóm tắt
 ![crypto-introduction-1](/img/posts/crypto-introduction-1/sm-cryptocurrency.png)
 
-## Details
+## Chi Tiết
 
 
 Về bản chất, mỗi đồng tiền điện tử thật ra chỉ đơn giản là một Mật Mã chứa đựng một khối lượng thông tin cụ thể và độc nhất (Unique Digital Token), giống như một con chip chứa thông tin vậy. Vì vậy mà tiền điện tử có thể luân chuyển nhanh chóng và dễ dàng từ người này sang người khác mà không cần một bên trung gian nào (cũng giống việc bạn gửi file .pdf đến người khác vậy).
@@ -28,4 +28,4 @@ Nhiệm vụ căn bản của Blockchain là lưu lại toàn bộ thông tin c�
 
 Hệ thống Blockchain này được điều hành bởi một mạng lưới các máy chủ riêng lẻ (Nodes) và rời rạc trên toàn cầu. Những máy chủ này được kết nối thông qua mạng Internet, sẽ kiểm tra và xác nhận các giao dịch bằng cách giải các bài toán phức tạp (Math Puzzle), máy chủ nào giải được bài toán trước sẽ được giao quyền xác nhận giao dịch và nhận phần thưởng (Reward) là chính những đồng tiền điện tử này (Ví dụ: hiện tại với Bitcoin #BTC thì mỗi lần giải được bài toán thì máy chủ sẽ nhận được 6.25 BTC = $70,000, đối với các đồng tiền khác thì phần thưởng ít hơn nhưng xác suất được nhận cao hơn nhiều so với Bitcoin). Các thao tác như vậy được gọi là Coin Mining (Đào Tiền Điện Tử).
 
-Source: 
+Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
