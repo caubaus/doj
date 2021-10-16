@@ -7,15 +7,15 @@ author: Trinh Nguyen Ba
 background: '/img/posts/crypto-introduction-1/bg-cryptocurrency.png'
 ---
 
-## Định nghĩa
+#### Khái quát
 Cryptocurrency - Tiền Điện Tử (Tiền Mã Hoá - Tiền Số Hoá - Tiền Thuật Toán)
 
 Tiền điện tử là một dạng tiền số hoá trên không gian mạng được bảo vệ bởi một hệ thống mật mã (Cryptography) chắc chắn và an toàn. Hệ thống mật mã này giúp cho các đồng tiền điện tử được luân chuyển minh bạch và chính xác giữa người gửi và người nhận, gần như tuyệt đối sẽ không xảy ra tình trạng một đồng tiền lại được gửi đi 2 nơi đến khác nhau (Double-Spending).
 
-## Tóm tắt
+#### Tóm tắt
 ![crypto-introduction-1](/img/posts/crypto-introduction-1/sm-cryptocurrency.png)
 
-## Chi Tiết
+#### Chi Tiết
 
 
 Về bản chất, mỗi đồng tiền điện tử thật ra chỉ đơn giản là một Mật Mã chứa đựng một khối lượng thông tin cụ thể và độc nhất (Unique Digital Token), giống như một con chip chứa thông tin vậy. Vì vậy mà tiền điện tử có thể luân chuyển nhanh chóng và dễ dàng từ người này sang người khác mà không cần một bên trung gian nào (cũng giống việc bạn gửi file .pdf đến người khác vậy).
