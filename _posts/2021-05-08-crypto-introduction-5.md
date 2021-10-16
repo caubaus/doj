@@ -1,21 +1,21 @@
 ---
 layout: post
 type: 1
-title: "Khái Niệm về Phi Tập Trung Hoá"
-subtitle: "What is Decentralization - Crypto Introduction 5"
+title: "Phi Tập Trung Hoá"
+subtitle: "Decentralization - Crypto Intro 5"
 background: '/img/posts/crypto-introduction-5/bg-decentralization.png'
 ---
 
-## Definition
+#### Khái quát
 
 Decentralization - Phi tập trung là một quá trình phân phối và làm thuyên giảm các quyền lực tập trung từ một cá nhân hay một tổ chức cụ thể nào đó.
 
 Phi tập trung trong không gian của Tiền Điện Tử là làm cho các quyền lực tài chính được trải rộng ra toàn thế giới theo một mạng lưới các máy chủ (Nodes) hỗ trợ bởi công nghệ Blockchain.
 
-## Summary
+#### Tóm tắt
 ![crypto-introduction-5](/img/posts/crypto-introduction-5/sm-decentralization.png)
 
-## Details
+#### Chi Tiết
 
 Như chúng ta đã biết, hầu hết các hệ thống ngân hàng và định chế tài chính tồn tại hiện nay đều được vận hành và chi phối bởi một cá thể nhất định (Ví dụ: ngân hàng trung ương). Điều này cho phép các hệ thống ngân hàng và định chế tài chính được đồng nhất dưới một chính sách và sự vận hành cụ thể và giúp cho hệ thống tiền tệ luôn được ổn định (khi mọi thứ còn ổn định).
 
@@ -24,3 +24,5 @@ Tuy nhiên, cách vận hành này đôi khi cũng có vài khuyết điểm. Đ
 Công nghệ Blockchain cho phép hình thành mạng lưới phi tập trung nhưng vẫn đảm bảo thực hiện được các chức năng vốn có của hệ thống ngân hàng hiện tại. Có nghĩa là, chúng ta sẽ không cần bất cứ một ngân hàng hoặc bên trung gian nào nhưng vẫn có thể thực hiện các giao dịch tài chính như gửi tiền, cho vay, đầu tư và thanh toán. Tất cả những giao dịch này sẽ được kiểm tra và xác nhận bởi một hệ thống các máy chủ trải rộng toàn cầu 24/7 nên luôn đảm bảo được độ liên tục, chính xác và minh bạch (thay vì thông qua một cá nhân hoặc tổ chức nhất định).
 
 Bất kể bạn là ai, bạn và tôi đều có thể tham gia vào hệ thống các máy chủ để giúp xác minh các giao dịch trên nền Blockchain, và chúng ta sẽ được thưởng những khoản tiền điện tử cho việc làm này. Quá trình như thế gọi là Coin Mining (Đào Coins).
+
+Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis

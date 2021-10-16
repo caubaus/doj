@@ -1,24 +1,24 @@
 ---
 layout: post
 type: 1
-title: "Ký Gửi Tiền Điện Tử là gì?"
-subtitle: "Crypto Staking - Crypto Introduction 9"
+title: "Đóng cọc Tiền Điện Tử là gì?"
+subtitle: "Crypto Staking - Crypto Intro 9"
 background: '/img/posts/crypto-introduction-9/bg-staking.png'
 ---
 
-## Background
+#### GIới thiệu
 
 Khái niệm Staking còn khá mới và dễ gây mơ hồ đối với các bạn mới tham gia thị trường tiền điện tử. Nhưng Staking lại là phương pháp kiếm tiền an toàn và hiệu quả nhất khi tham gia vào thị trường này.
 
 Hi vọng các bạn sẽ đọc kỹ và nắm vững cách thức thực hiện để cùng nhau kiếm tiền. Mình sẵn sàng trả lời mọi câu hỏi trong phần comments bên dưới nên các bạn cứ mạnh dạn hỏi (nhất định phải hiểu rõ được cách kiếm tiền này).
 
-## Definition
+#### Khái quát
 
-Staking có thể hiểu là việc bạn "ký gửi" tiền điện tử của mình vào một nhóm "ký gửi" (Staking Pool), nhóm này sử dụng coins của bạn tham gia vào việc xác nhận các giao dịch và nhận rewards (theo một giao thức có tên là là Proof-of-Stake). Nói cách khác, Staking Pool nào có càng nhiều coins thì xác suất nhận rewards càng lớn. Cho nên các Staking Pool sẵn sàng trả cho bạn một lãi suất nhất định để bạn tham gia vào việc "ký gửi" chung.
+Staking có thể hiểu là việc bạn "Đóng cọc" tiền điện tử của mình vào một nhóm "Đóng cọc" (Staking Pool), nhóm này sử dụng coins của bạn tham gia vào việc xác nhận các giao dịch và nhận rewards (theo một giao thức có tên là là Proof-of-Stake). Nói cách khác, Staking Pool nào có càng nhiều coins thì xác suất nhận rewards càng lớn. Cho nên các Staking Pool sẵn sàng trả cho bạn một lãi suất nhất định để bạn tham gia vào việc "Đóng cọc" chung.
 
-Cách đơn giản nhất để nghĩ về Staking như là “ký gửi” các đồng coin của mình vào các “Pool" nhằm phục vụ cho việc vận hành và xác nhận các giao dịch trong hệ thống. Người tham gia Staking sẽ được nhận thưởng (như lãi suất) bằng chính đồng coin mình đã “ký gửi”. Mức lãi suất này tăng giảm theo nhu cầu thị trường, hiện tại lãi suất trung bình vào khoảng 7%/year (cao hơn rất nhiều so với lãi suất gửi ngân hàng hiện tại).
+Cách đơn giản nhất để nghĩ về Staking như là “Đóng cọc” các đồng coin của mình vào các “Pool" nhằm phục vụ cho việc vận hành và xác nhận các giao dịch trong hệ thống. Người tham gia Staking sẽ được nhận thưởng (như lãi suất) bằng chính đồng coin mình đã “Đóng cọc”. Mức lãi suất này tăng giảm theo nhu cầu thị trường, hiện tại lãi suất trung bình vào khoảng 7%/year (cao hơn rất nhiều so với lãi suất gửi ngân hàng hiện tại).
 
-## Details
+#### Chi Tiết
 
 Điểm khác biệt rõ rệt nhất giữ Staking và Lending là trong khi Lending đòi hỏi người tham gia phải đem “cho vay" đồng coin của mình, thì với Staking, người tham gia vẫn được quyền giữ coin trong ví điện tử cá nhân nhưng đồng coin này sẽ bị tạm khóa “locked-in”, nghĩa là không thể giao dịch hay lưu chuyển sang ví khác. Điều này thật ra là để Staking được tuyệt đối an toàn (vì coin vẫn nằm yên trong ví xuyên suốt quá trình Staking).
 
@@ -30,7 +30,7 @@ Câu hỏi đặt ra là tại sao người tham gia Staking lại được tr�
 
 - Giống như tiền giấy, một đồng tiền đều có một mã số (Serial Number) riêng, thì mỗi đồng coin tiền điện tử cũng có một ID khác nhau. Nên các thuật toán sẽ chọn một ID ngẫu nhiên nào đó và giao cho máy chủ chứa đồng coin có ID đó quyền xác nhận giao dịch. Như vậy, để tăng thêm xác suất được chọn, thì những máy chủ này sẽ kêu gọi nhiều người cùng góp coin để cùng Stake (tạo thành Staking Pool), và họ sẵn sàng trả cho những người cùng tham gia một lãi suất nhất định. Vì họ tin rằng khi xác suất được bầu chọn tăng lên, số lần được quyền xác nhận giao dịch cũng tăng lên và nhận thưởng nhiều hơn, số tiền thưởng này đủ lớn để họ trả lãi suất cho các thành viên tham gia Staking.
 
-## Staking Rates
+#### Lãi suất đóng cọc (Staking Rates) 
 
 Gợi ý một số dự án Staking vừa an toàn vừa là đồng coin nhiều tiềm năng tăng trưởng trong tương lai như sau:
 
@@ -61,3 +61,6 @@ Nếu không phải US Residents thì bạn cũng có thể mở sàn Binance In
 - Các bước tiến hành cũng khá tương tự. Sau khi mở account, bạn click chọn vào tab [Finance] => chọn tab [Staking] => chọn tab [Flexible Staking] sẽ hiện ra những đồng coin có thể tham gia Staking. Link referral mở tài khoản Binance International của mình nếu cần: [<span style="color:blue"> Binance.us Referral Link</span>](https://accounts.binance.us/en/register?ref=35337845)
 
 Ngoài ra Coinbase cũng hỗ trợ Staking một số coin nhất định, tuy nhiên lãi suất có ít hơn Binance US (Ví dụ: Staking Tezos #XTZ hiện trả khoảng 4.67%/year). Bạn có thể tham khảo thêm về cách thức tham gia, các bước cũng khá tương tự Binance US. Link mở sàn Coinbase của mình: [<span style="color:blue"> Coinbase Referral Link</span>](https://www.coinbase.com/join/nguyen_qig) 
+
+
+Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis

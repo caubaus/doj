@@ -2,7 +2,7 @@
 layout: post
 type: 1
 title: "Tiền Điện Tử là gì?"
-subtitle: "What is Cryptocurrency - Crypto Introduction 1"
+subtitle: "Cryptocurrency - Crypto Intro 1"
 author: Trinh Nguyen Ba
 background: '/img/posts/crypto-introduction-1/bg-cryptocurrency.png'
 ---
@@ -26,6 +26,6 @@ Công nghệ Blockchain về căn bản chỉ là công nghệ giúp quản lý 
 
 Nhiệm vụ căn bản của Blockchain là lưu lại toàn bộ thông tin của tất cả các giao dịch đã xảy ra trong quá khứ để đảm bảo rằng sẽ không xảy ra tình trạng Double-Spend (một đồng tiền nhất định lại được gửi đến 2 nơi khác nhau. Ví dụ: nếu bạn có 10 Bitcoins #BTC, cùng 1 lúc bạn KHÔNG thể gửi 10 Bitcoin này đến anh A và 10 Bitcoin này đến anh B mà chỉ có thể thực hiện 1 trong 2 giao dịch trên).
 
-Hệ thống Blockchain này được điều hành bởi một mạng lưới các máy chủ riêng lẻ (Nodes) và rời rạc trên toàn cầu. Những máy chủ này được kết nối thông qua mạng Internet, sẽ kiểm tra và xác nhận các giao dịch bằng cách giải các bài toán phức tạp (Math Puzzle), máy chủ nào giải được bài toán trước sẽ được giao quyền xác nhận giao dịch và nhận phần thưởng (Reward) là chính những đồng tiền điện tử này (Ví dụ: hiện tại với Bitcoin #BTC thì mỗi lần giải được bài toán thì máy chủ sẽ nhận được 6.25 BTC = $70,000, đối với các đồng tiền khác thì phần thưởng ít hơn nhưng xác suất được nhận cao hơn nhiều so với Bitcoin). Các thao tác như vậy được gọi là Coin Mining (Đào Tiền Điện Tử).
+Hệ thống Blockchain này được điều hành bởi một mạng lưới các máy chủ riêng lẻ (Nodes) và rời rạc trên toàn cầu. Những máy chủ này được kết nối thông qua mạng Internet, sẽ kiểm tra và xác nhận các giao dịch bằng cách giải các bài toán phức tạp (Math Puzzle), máy chủ nào giải được bài toán trước sẽ được giao quyền xác nhận giao dịch và nhận phần thưởng (Reward) là chính những đồng tiền điện tử này (Ví dụ: hiện tại với Bitcoin #BTC thì mỗi lần giải được bài toán thì máy chủ sẽ nhận được 6.25 BTC = $375k, đối với các đồng tiền khác thì phần thưởng ít hơn nhưng xác suất được nhận cao hơn nhiều so với Bitcoin). Các thao tác như vậy được gọi là Coin Mining (Đào Tiền Điện Tử).
 
 Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis

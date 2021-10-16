@@ -2,22 +2,22 @@
 layout: post
 type: 1
 title: "Khái Niệm về Bitcoin"
-subtitle: "Bitcoin - Crypto Introduction 2"
+subtitle: "Bitcoin - Crypto Intro 2"
 background: '/img/posts/crypto-introduction-2/bg-bitcoin.png'
 ---
 
 
-## Definition
+#### Khái quát
 
 Bitcoin (#BTC) là một loại tiền điện tử (Cryptocurrency) được tạo ra vào tháng 1 năm 2009 bởi một người ẩn danh đầy bí ẩn (lấy tên là Satoshi Nakamoto - các thông tin về vị cha đẻ của Bitcoin vẫn luôn là một ẩn số và kích thích sự tò mò của nhiều người). Bitcoin có đầy đủ các đặc tính của một đồng tiền điện tử bao gồm sự phi tập trung, sự minh bạch và sự luân chuyển nhanh chóng giữa người gửi và người nhận. Không giống như các đồng tiền giấy nhử USD hay CAD, Bitcoin không bị chi phối bởi một cá nhân hay tổ chức nào, điều này có nghĩa là không ai có thể “in” thêm Bitcoin hoặc đơn phương thay đổi giá trị của Bitcoin. Mặc khác, sự lưu chuyển của Bitcoin được đảm bảo bởi công nghệ chuỗi khối (Blockchain). Bitcoin không có biên giới mà có thể lưu chuyển từ người này sang người khác một cách nhanh chóng và an toàn với chi phí thấp hơn nhiều so với các dịch vụ gửi tiền giấy hiện nay. Tại thời điểm bài viết, một đồng Bitcoin có trị giá vào khoảng $60,000 USD.
 
 Công nghệ chuỗi khối về căn bản chỉ là một bản sao kê tổng hợp (Ledger) các giao dịch của một loại tiền điện tử nhất định trong một khoảng thời gian nhất định. (Ví dụ: đối với Bitcoin thì cứ sau mỗi 10 phút sẽ có 1 khối - block - được tạo ra, trong đó chứa thông tin toàn bộ các giao dịch về Bitcoin trên toàn cầu đã xảy ra trong 10 phút đó). Tập hợp các khối chứa đựng thông tin các giao dịch này kể từ những giao dịch đầu tiên của tiền điện tử thì gọi là chuỗi khối (Blockchain - Chain of blocks).
 
-## Summary
+#### Tóm tắt
 
 ![crypto-introduction-2](/img/posts/crypto-introduction-2/sm-bitcoin.png)
 
-## Details
+#### Chi Tiết
 
 Bitcoin được lập trình để nó tự thưởng cho người xác nhận giao dịch, và đó cũng là cách duy nhất để khai sinh một đồng Bitcoin mới ra đời.
 
@@ -27,7 +27,7 @@ Bitcoin được lập trình để nó tự thưởng cho người xác nhận 
 
 - Khi đó người xác nhận chỉ được nhận tiền từ phí vận chuyển Bitcoin (kiểu giống phí chuyển tiền ngoài Western Union vậy)
 
-## Fun Facts
+#### Vài điểm thú vị
 
 - Chỉ có 21 triệu Bitcoin trên toàn thế giới và không ai có thể tạo ra thêm Bitcoin. Điều này khiến Bitcoin trở thành một loại tài sản khan hiếm như vàng hay kim cương (Scarce Asset)
 
@@ -40,3 +40,5 @@ Bitcoin được lập trình để nó tự thưởng cho người xác nhận 
 - Có nhiều người hoài nghi Elon Musk - CEO Tesla chính là Satoshi Nakamoto.
 
 - Satoshi Nakamoto đã không xuất hiện trên không gian mạng kể từ 2011 sau khi ông nói ông muốn để Bitcoin tự phát triển một cách tự nhiên. Thật là một Kỳ nhân.
+
+Tham khảo:  *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
