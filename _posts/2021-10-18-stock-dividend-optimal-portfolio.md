@@ -65,8 +65,9 @@ Thế nên mọi quyết định ‘xuống tiền’ phải được cân nhắ
 
 Thông điệp của người viết:
 
-> - Sẽ có những người xuất hiện, chỉ để khiến ta ngơ ngác
-> - Nhưng sẽ có người ở lại, giúp ta uyên bác và thành công
+> Sẽ có những người xuất hiện, chỉ để khiến ta ngơ ngác
+> 
+> Nhưng sẽ có người ở lại, giúp ta uyên bác và thành công
 
 > (Người ấy là ai?)
 
