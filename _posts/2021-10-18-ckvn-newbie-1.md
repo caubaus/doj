@@ -8,9 +8,10 @@ background: '/img/posts/ckvn-newbie-1/ckvn-newbie-1.png'
 ---
 
 #### Đầu tư là gì
-![ckvn-newbie-1](/img/posts/ckvn-newbie-1/dream-thai.png)
 
 Hẳn bạn đã từng nghe danh chiếc xe Honda “Dream Thái” huyền thoại vang bóng một thời? Dòng xe Dream Thái do hãng Honda sản xuất năm 1992 khi về đến Việt Nam những năm ấy có giá bán vào khoảng 10 cây vàng mỗi chiếc. Nhưng cũng 10 cây vàng ấy, hôm nay lại có thể giúp bạn “tậu” một căn nhà mặt phố mà “bố không cần làm quá to”. Trong khi chiếc Dream Thái kia thì chắc chắn chỉ còn là những hoài niệm.
+
+![ckvn-newbie-1](/img/posts/ckvn-newbie-1/dream-thai.png)
 
 Có bao giờ bạn nói đùa vui với cha mẹ là sao trước kia họ không mua đất chỗ này, sao không rào cái vườn chỗ kia, sao không mua nhà chỗ ấy, vv…
 
