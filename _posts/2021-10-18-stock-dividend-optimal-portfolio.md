@@ -55,7 +55,7 @@ Lưu ý là tổng tỷ lệ góp vốn phải bằng 100% *(Như các bạn th�
 
 Người viết sử dụng ứng dụng M1 Finance để mua những cổ phiếu này, M1 rất phù hợp để đầu tư Dividend Stocks vì bạn có thể set-up sẵn những tỉ lệ góp vốn, set-up sẵn việc tái đầu tư cổ tức (Dividend Reinvestment) để mỗi khi bạn bỏ tiền vào thì ứng dụng sẽ tự động chia tiền đó ra theo đúng tỷ lệ bạn chọn và mua đúng những cổ phiếu bạn mong muốn.
 
-Nếu bạn muốn đầu tư giống 100% với ‘rổ đầu tư’ tối ưu như trên thì có thể đăng kí tài khoản ứng dụng M1 ở đường link này, trong đó đã ‘set-up’ sẵn tỷ trọng góp vốn tối ưu, bạn chỉ việc deposit tiền vào là ứng dụng sẽ tự động mua y vậy: https://m1.finance/4ZrPzo1yq8R3
+Nếu bạn muốn đầu tư giống 100% với ‘rổ đầu tư’ tối ưu như trên thì có thể đăng kí tài khoản ứng dụng M1 ở đường link này, trong đó đã ‘set-up’ sẵn tỷ trọng góp vốn tối ưu, bạn chỉ việc deposit tiền vào là ứng dụng sẽ tự động mua y vậy: [<span style="color:blue"> M1 Finance Referral Link</span>](https://m1.finance/4ZrPzo1yq8R3) 
 
 Những hạng mục đầu tư như thế này được tiếng là an toàn nhưng cần sự kiên nhẫn và kỷ luật, cá nhân người viết mỗi tháng đều cố gắng trích một khoản tiền nhất định để đầu tư và cổ phiếu Dividend như thế này (bên cạnh những mảng đầu tư rủi ro và giao dịch ngắn hạn khác).
 
@@ -64,9 +64,10 @@ Những hạng mục đầu tư như thế này được tiếng là an toàn nh
 Thế nên mọi quyết định ‘xuống tiền’ phải được cân nhắc kỹ lưỡng cho phù hợp với hoàn cảnh của chính bạn, chứ không nên nhắm mắt chạy theo người khác, bạn không bao giờ biết được người ta là ‘thiên tài hôm nay’ hay ‘thiên tai ngày mai’.
 
 Thông điệp của người viết:
-> Sẽ có những người xuất hiện, chỉ để khiến ta ngơ ngác
-> Nhưng sẽ có người ở lại, giúp ta uyên bác và thành công
-> (Người ấy là ai?)
+
+Sẽ có những người xuất hiện, chỉ để khiến ta ngơ ngác
+Nhưng sẽ có người ở lại, giúp ta uyên bác và thành công
+(Người ấy là ai?)
 
 Tham khảo: *Fundamentals of Financial Management* by Eugene F. Brigham
 
