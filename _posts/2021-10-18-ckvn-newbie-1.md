@@ -1,13 +1,13 @@
 ---
 layout: post
 type: 5
-title: "Tại sao cần học và hiểu về đầu tư"
+title: "Tại sao cần học và hiểu về đầu tư?"
 subtitle: "Chứng Khoán Việt Nam cho người mới bắt đầu"
 author: Trinh Nguyen Ba
 background: '/img/posts/ckvn-newbie-1/ckvn-newbie-1.png'
 ---
 
-#### Đầu tư là gì
+#### Đầu tư là gì?
 
 Hẳn bạn đã từng nghe danh chiếc xe Honda “Dream Thái” huyền thoại vang bóng một thời? Dòng xe Dream Thái do hãng Honda sản xuất năm 1992 khi về đến Việt Nam những năm ấy có giá bán vào khoảng 10 cây vàng mỗi chiếc. Nhưng cũng 10 cây vàng ấy, hôm nay lại có thể giúp bạn “tậu” một căn nhà mặt phố mà “bố không cần làm quá to”. Trong khi chiếc Dream Thái kia thì chắc chắn chỉ còn là những hoài niệm.
 
@@ -32,7 +32,6 @@ Tuy nhiên, đầu tư cũng giống như những ngành nghề khác, cũng đi
 #### Thông điệp của người viết
 
 Đầu tư không sai, chúng ta sai khi không đầu tư.
-
 Nhưng ít nhất, hãy là nhà đầu tư có học thức. 
 
 Chú thích (Disclaimer):
