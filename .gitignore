@@ -7,3 +7,4 @@ vendor/bundle
 .jekyll-cache
 .vscode
 **/.DS_Store
+.jekyll-metadata
