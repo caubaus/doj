@@ -26,7 +26,7 @@ Mô hình định giá cổ phiếu phổ biến nhất có tên là Discounted 
 
 (R = Lãi Suất Trái Phiếu + Tỷ Lệ Lạm Phát + Tỷ Suất Tín Nhiệm + Tỷ Lệ Biến Động Thị Trường)
 
-![stock-introduction-02](/img/posts/stock-introduction-02/sm-dcf.jpg)
+![stock-introduction-02](/img/posts/stock-introduction-02/sm_dcf.jpg)
 
 Như có đề cập từ đầu, bạn không cần phải hiểu công thức tính những giá trị này, nhưng chỉ cần hiểu tác động của chúng lên cổ phiếu như sau:
 

@@ -21,7 +21,7 @@ Có thể hiểu PE Ratio bằng cách tự đặt câu hỏi: Bao nhiêu vốn 
 - Ví dụ 1: Đối với #AAPL thì PE = 34, nghĩa là: Để có thể kiếm được 1 Dollar lợi nhuận từ cổ phiếu #AAPL thì nhà đầu tư phải bỏ ra số vốn ít nhất là $34.
 - Ví dụ 2: Đối với #WMT thì PE = 21, nghĩa là: Để có thể kiếm được 1 Dollar lợi nhuận từ cổ phiếu #WMT thì nhà đầu tư phải bỏ ra số vốn ít nhất là $21.
 
-![stock-introduction-03](/img/posts/stock-introduction-03/sm-pe.jpg)
+![stock-introduction-03](/img/posts/stock-introduction-03/sm_pe.jpg)
 
 #### Chi Tiết
 
