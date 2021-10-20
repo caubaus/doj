@@ -17,10 +17,10 @@ Ví dụ: Nếu ai đó nói họ mua chứng khoán thì thường là họ mua
 Lưu ý: Sàn Giao Dịch Chứng Khoán cũng là một công ty (doanh nghiệp).
 
 Có rất nhiều Sàn Giao Dịch Chứng Khoán trên toàn thế giới. Nổi tiếng và bận rộn nhất phải kể đến:
-> Sàn Giao Dịch Chứng Khoán New York (New York Stock Exchange - NYSE)
-> Sàn Giao Dịch Chứng Khoán NASDAQ
-> Sàn Giao Dịch Chứng Khoán London (London Stock Exchange - LSE)
-> Sàn Giao Dịch Chứng Khoán Hồng Kông ( Hong Kong Stock Exchange - HKEX).
+> - Sàn Giao Dịch Chứng Khoán New York (New York Stock Exchange - NYSE)
+> - Sàn Giao Dịch Chứng Khoán NASDAQ
+> - Sàn Giao Dịch Chứng Khoán London (London Stock Exchange - LSE)
+> - Sàn Giao Dịch Chứng Khoán Hồng Kông ( Hong Kong Stock Exchange - HKEX).
 
 Tham khảo: *Fundamentals of Financial Management* by Eugene F. Brigham
 
