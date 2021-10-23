@@ -4,7 +4,7 @@ type: 6
 title: "Long Call Option"
 subtitle: "Option Basics 1"
 author: Trinh Nguyen Ba
-background: '/img/posts/option-basic-1/option-basic-1-bg.png'
+background: '/img/posts/option-basic-1/option-basic-1.png'
 ---
 
 #### Khái quát
