@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 2
-title: "Công ty SPAC là gì?"
+title: "Khái Niệm SPAC"
 subtitle: "What is a SPAC - Stock Intro 8"
 background: '/img/posts/stock-introduction-08/spac.png'
 ---

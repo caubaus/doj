@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 1
-title: "Giới thiệu về đồng coin #HT và sàn Houbi"
+title: "Sàn Houbi và đồng #HT"
 subtitle: "Crypto Exchange Projects - Houbi"
 background: '/img/posts/crypto-coin-ht/crypto-ht-bg.png'
 ---

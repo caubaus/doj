@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 2
-title: "Lợi Nhuận từ Cổ Tức"
+title: "Lợi Suất Cổ Tức"
 subtitle: "Dividend Yield - Stock Intro 5"
 background: '/img/posts/stock-introduction-05/bg-stock-introduction-05.png'
 ---

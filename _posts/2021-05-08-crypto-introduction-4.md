@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 1
-title: "Thị Trường Tiền Điện Tử là gì?"
+title: "Thị Trường Tiền Số"
 subtitle: "Cryptocurrency Market - Crypto Intro 4"
 background: '/img/posts/crypto-introduction-4/bg-cryptomarket.png'
 ---
