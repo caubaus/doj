@@ -49,18 +49,18 @@
 
     @media only screen and (max-width: 768px) {
         .body {
-            font-size: 15px;
+            font-size: 15px !important;
         }
         .post-preview>a>.post-title {
-            font-size: 15px;
+            font-size: 15px !important;
             margin-top: 30px;
             margin-bottom: 10px;
         }
         .post-preview>a>.post-subtitle {
-            font-size: 12px
+            font-size: 12px !important;
         }
         .post-preview>.post-meta {
-            font-size: 12px
+            font-size: 12px !important;
         }
         .post-header .post-preview {
             left: 10px !important;
