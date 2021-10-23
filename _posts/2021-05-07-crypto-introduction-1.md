@@ -5,6 +5,7 @@ title: "Tiền Điện Tử là gì?"
 subtitle: "Cryptocurrency - Crypto Intro 1"
 author: Trinh Nguyen Ba
 background: '/img/posts/crypto-introduction-1/bg-cryptocurrency.png'
+toc: true
 ---
 
 #### Khái quát
