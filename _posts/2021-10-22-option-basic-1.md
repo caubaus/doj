@@ -58,7 +58,7 @@ Chính vì vậy mà bạn nên chọn ngày đáo hạn tương đối xa, thư
 
 > - Trong trường hợp #SOFI này thì vận dụng LEAP Call để đầu tư dài hạn là khá an toàn, vì khả năng cao là giá #SOFI sẽ vượt lên trên con số $23.50 tới trước ngày APR 14th 2022.
 
-Tham khảo: *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
+Tham khảo: *Trading Options Greeks: How Time, Volatility, and Other Pricing Factors Drive Profits* by Dan Passarelli
 
 Chú thích (Disclaimer):
 *Bài viết chỉ mang mục đích giáo dục và giải trí, hoàn toàn không có giá trị như một lời khuyên về đầu tư (Not Financial Advice).*
