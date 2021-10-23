@@ -36,7 +36,7 @@ Như có đề cập từ đầu, bạn không cần phải hiểu công thức 
 - Nếu Độ Tín Nhiệm (Credit Score) của doanh nghiệp giảm; ví dụ: Doanh nghiệp bị hạ thấp điểm tín nhiệm bởi Moody's hoặc Credit Suisse, sẽ dẫn đến việc Credit Spread giãn ra (wider) và giá trị của stock sẽ giảm tương xứng ↓. (\*\*Mình sẽ có một bài riêng phân tích về Credit Spread).
 - Sau cùng, nếu thị trường dự đoán sẽ có sự biến động mạnh (High Expected Volatility or High Risk Premium) trong tương lai; ví dụ: Tâm lý đầu tư lo sợ hay hoang mang, VIX tăng, thị trường rơi vào trạng thái bất định và ngờ vực, thì giá trị cổ phiếu cũng sẽ giảm ↓. (Yếu tố này là quan trọng nhất tại thời điểm hiện tại, vì thị trường hiện tại bị chi phối mạnh bởi những nhà đầu tư cá nhân ít kinh nghiệm và dễ bị tổn thương, nên thường bị ảnh hưởng tâm lý trong các quyết định đầu tư cũng như những quyết định thoái vốn. Do đó mà có hiện tượng họ rót tiền đầu tư ào ạt theo đám đông nhưng cũng nhanh chóng bán tháo bán chạy khi bị kích thích và sợ hãi.)
 
-## Kết luận
+#### Kết luận
 
 Như vậy, tuy không cần phải nắm chi tiết những nguyên lý vận động bên trong các mô hình định giá chứng khoán, nhà đầu tư vẫn có thể “nhạy" (sense) được sự tăng giảm của thị trường nếu hiểu rõ những yếu tố tác động lên nó (như trình bày ở trên). Các yếu tố này rất quan trọng để xem xét khi đưa ra các quyết định đầu tư.
 
