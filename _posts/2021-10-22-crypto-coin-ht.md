@@ -34,8 +34,9 @@ Cách tiếp cận của mình cũng đơn giản, chia 3 số tiền, vào 1 ng
 
 Kucoin: [<span style="color:blue"> Kucoin Referral Link</span>](https://www.kucoin.com/ucenter/signup?rcode=1H2eu)
 
-
 Houbi: [<span style="color:blue"> Houbi Referral Link</span>](https://www.huobi.com/en-us/topic/invited/?invite_code=szn8a)
+
+Binance Quốc Tế: [<span style="color:blue"> BinanceCom Referral Link</span>](https://www.binance.com/en/register?ref=YT2MPPYG)
 
 Tham khảo: *The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them* by Antony Lewis
 
