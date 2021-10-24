@@ -4,6 +4,7 @@ type: 2
 title: "Thị Trường Chứng Khoán"
 subtitle: "Stock Market - Stock Intro 1"
 background: '/img/posts/stock-introduction-01/bg-stock-introduction-01.png'
+breaking: second
 ---
 
 #### Khái quát

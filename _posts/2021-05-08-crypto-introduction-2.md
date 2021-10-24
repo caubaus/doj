@@ -4,6 +4,7 @@ type: 1
 title: "Khái Niệm về Bitcoin"
 subtitle: "Bitcoin - Crypto Intro 2"
 background: '/img/posts/crypto-introduction-2/bg-bitcoin.png'
+breaking: first
 ---
 
 
