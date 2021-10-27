@@ -11,7 +11,7 @@
   </title>
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:image" content="{{ page.background | prepend: site.baseurl | replace: '//', '/' }}">
-  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <meta property="og:url" content="{{ page.url }}">
   <meta
     property="og:description"
     name="description"
@@ -37,7 +37,7 @@
   <link rel="stylesheet" href="{{'assets/main.css' | relative_url }}" />
   <link
     rel="canonical"
-    href="{{ page.url | replace:'index.html','' | absolute_url }}"
+    href="{{ page.url }}"
   />
   <link
     rel="alternate"
