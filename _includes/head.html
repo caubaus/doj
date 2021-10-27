@@ -10,7 +10,7 @@
     else %}{{ site.title | escape }}{% endif %}
   </title>
   <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:image" content="{{ page.background }}">
+  <meta property="og:image" content="{{ page.background | prepend: site.baseurl | replace: '//', '/' }}">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
   <meta
     property="og:description"
