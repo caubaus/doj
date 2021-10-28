@@ -3,7 +3,7 @@ layout: post
 type: 1
 title: "Tháo gỡ kết nối ví của bạn với các website đã trao quyền kết nối hoặc chi tiêu với Unrekt"
 subtitle: "Find & revoke all the addresses that can spend your tokens with Unrekt"
-author: Huy Le
+author: Huy Nguyen
 background: '/img/posts/crypto-revoke-wallet-unrekt/crypto_wallet.jpg'
 ---
 
