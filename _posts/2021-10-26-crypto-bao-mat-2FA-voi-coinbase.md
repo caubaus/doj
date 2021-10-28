@@ -24,4 +24,19 @@ background: '/img/posts/crypto-2FA/2FA_background.jpeg'
 8. Sau khi hoàn thành tất cả các bước bạn sẽ thấy một thông báo cho biết: “Your two-factor method now is: Authenticator”
 ![complete2FA](/img/posts/crypto-2FA/complete2FA.png)
 
+9. Cách back up QRcode lên một thiết bị khác đề phòng trường hợp mất máy  hoặc xóa app Google Authenticator. Chọn Export Accounts, Click Continue 
+**Lưu ý**: cách này hiện chỉ có thể áp dụng cho Android, Google Authenticator trên iPhone chưa có chức năng export
+![export2FA](/img/posts/crypto-2FA/export2FA.jpg)
+![export2FA2](/img/posts/crypto-2FA/export2FA_2.jpg)
+
+Click vào nút "Export"
+![export2FA3](/img/posts/crypto-2FA/export2FA_3.jpg)
+
+Sau đó trên điện thoại của các bạn sẽ có dãy QRCode :
+![scan_qr](/img/posts/crypto-2FA/scan_qr.jpg)
+(Mình che lại thông tin cá nhân quan trọng)
+Các bạn mở điện thoại khác cần back up, mở ứng dụng Google Authenticator và scan QR code đó,thế là đã hoàn thành back up rồi.
+![scan_qr2](/img/posts/crypto-2FA/scan_qr2.jpg)
+
+
 **Chúc mừng bạn đã set-up bảo mật 2 lớp 2FA cho Coinbase thành công**
