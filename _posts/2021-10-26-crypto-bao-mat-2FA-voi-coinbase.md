@@ -25,7 +25,7 @@ background: '/img/posts/crypto-2FA/2FA_background.jpeg'
 ![complete2FA](/img/posts/crypto-2FA/complete2FA.png)
 
 9. Cách back up QRcode lên một thiết bị khác đề phòng trường hợp mất máy  hoặc xóa app Google Authenticator. Chọn Export Accounts, Click Continue 
-**Lưu ý**: cách này hiện chỉ có thể áp dụng cho Android, Google Authenticator trên iPhone chưa có chức năng export
+
 ![export2FA](/img/posts/crypto-2FA/export2FA.jpg)
 ![export2FA2](/img/posts/crypto-2FA/export2FA_2.jpg)
 
