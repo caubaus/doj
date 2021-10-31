@@ -31,13 +31,13 @@ Bạn có thể mua bán Warrant như mua bán Options, có lời thì chốt l�
 
 - Có thể hiểu như thế này: 
 
-> - #FPAC là công ty SPAC hứa hẹn sẽ đưa công ty tư nhân Bullish (một công ty về cung cấp dịch vụ trao đổi tiền số Cryptocurrency). 
+>> - #FPAC là công ty SPAC hứa hẹn sẽ đưa công ty tư nhân Bullish (một công ty về cung cấp dịch vụ trao đổi tiền số Cryptocurrency). 
 
-> - Giả sử bạn có 1 Warrant #FPAC (Strike $11.50, Expiry 5 Years), mã Warrant của nó là #FPAC/W, giá #FPAC hiện tại là $11. 
+>> - Giả sử bạn có 1 Warrant #FPAC (Strike $11.50, Expiry 5 Years), mã Warrant của nó là #FPAC/W, giá #FPAC hiện tại là $11. 
 
-> - Nếu tuần tới #FPAC tăng lên $15 thì như vậy Warrant của bạn đang là In-the-Money (đã có lời), nhưng #FPAC chưa merger nên bạn chưa Exercise được đâu. 
+>> - Nếu tuần tới #FPAC tăng lên $15 thì như vậy Warrant của bạn đang là In-the-Money (đã có lời), nhưng #FPAC chưa merger nên bạn chưa Exercise được đâu. 
 
-> - Giả sử #FPAC có kế hoạch sẽ hoàn tất sát nhập Bullish vào cuối 2021 và bạn đang ở thời điểm tháng 1 năm 2022, thì như vậy #FPAC đã sáp nhập với Bullish được 30 ngày rồi, giá của #FPAC giả sử lúc đó đang là $25. Như vậy, bạn có quyền Exercise (kích hoạt hợp đồng) để mua cổ phiếu #FPAC từ công ty Bullish (với giá Strike $11.50), hoặc cũng có quyền giữ nguyên Warrant đó cho tới 5 năm (nếu bạn nghĩ rằng nó vẫn sẽ tiếp tục tăng giá trị).
+>> - Giả sử #FPAC có kế hoạch sẽ hoàn tất sát nhập Bullish vào cuối 2021 và bạn đang ở thời điểm tháng 1 năm 2022, thì như vậy #FPAC đã sáp nhập với Bullish được 30 ngày rồi, giá của #FPAC giả sử lúc đó đang là $25. Như vậy, bạn có quyền Exercise (kích hoạt hợp đồng) để mua cổ phiếu #FPAC từ công ty Bullish (với giá Strike $11.50), hoặc cũng có quyền giữ nguyên Warrant đó cho tới 5 năm (nếu bạn nghĩ rằng nó vẫn sẽ tiếp tục tăng giá trị).
 
 - Tuy nhiên, đôi khi (chỉ là đôi khi thôi) công ty #FPAC sẽ báo với bạn là họ muốn bạn Exercise “ngay và luôn” vì giá #FPAC lúc đó đã quá cao (tức là bạn đã có lời rồi, nhưng họ muốn giảm rủi ro cho công ty vì lỡ như #FPAC tăng mạnh lên nữa thì họ sẽ lỗ quá nhiều vì họ là phía bên bán mà). Khi đó, bạn sẽ bị buộc phải Exercise trước một Deadline nào đó (họ sẽ báo bạn trước 2-3 tuần), nếu bạn từ chối Exercise thì Warrant đó sẽ trở nên vô giá trị, nên đầu tư Warrant bạn phải lưu ý kỹ chỗ này. (**Đọc Form S-1 của SPAC đó để có thông tin chi tiết).
 
