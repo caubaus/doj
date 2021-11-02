@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 5
-title: "Tại sao cần học và hiểu về đầu tư?"
+title: "Tại sao cần học về đầu tư?"
 subtitle: "Chứng Khoán Việt Nam cho người mới bắt đầu"
 author: Trinh Nguyen Ba
 background: '/img/posts/ckvn-newbie-1/ckvn-newbie-1.png'

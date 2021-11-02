@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 1
-title: "Đào Tiền Điện Tử là gì?"
+title: "Đào Tiền Số"
 subtitle: "Crypto Mining - Crypto Intro 7"
 background: '/img/posts/crypto-introduction-7/bg-coinmining.png'
 ---

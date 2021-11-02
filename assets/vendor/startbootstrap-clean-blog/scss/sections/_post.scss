@@ -10,12 +10,13 @@
         }
 
         >.post-title {
-            font-size: 30px;
+            font-size: 25px  !important;
             margin-top: 30px;
             margin-bottom: 10px;
         }
 
         >.post-subtitle {
+            font-size: 1.25rem !important;
             font-weight: 300;
             margin: 0 0 10px;
         }
@@ -42,28 +43,28 @@
     @media only screen and (min-width: 768px) {
         >a {
             >.post-title {
-                font-size: 32px;
+                font-size: 25px;
             }
         }
     }
 
     @media only screen and (max-width: 768px) {
         .body {
-            font-size: 18px;
+            font-size: 15px;
         }
         .post-preview>a>.post-title {
-            font-size: 18px;
+            font-size: 15px;
             margin-top: 30px;
             margin-bottom: 10px;
         }
         .post-preview>a>.post-subtitle {
-            font-size: 15px
+            font-size: 12px;
         }
         .post-preview>.post-meta {
-            font-size: 15px
+            font-size: 12px;
         }
         .post-header .post-preview {
-            left: 10px
+            left: 10px !important;
         }
     }
 }
@@ -87,7 +88,7 @@ img {
   
 .post-header .post-preview {
     position: relative;
-    left: 40px;
+    left: 10px !important;
 }
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 0
-title: "Trung Quốc cấm Bitcoin lần thứ N"
+title: "Trung Quốc lại cấm Bitcoin"
 subtitle: "China bans Bitcoin again"
 author: Nam Le
 background: '/img/posts/news-china-bans-bitcoin-again/bg-news-china-bans-bitcoin-again-20210924.jpg'

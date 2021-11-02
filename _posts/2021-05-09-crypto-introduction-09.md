@@ -1,7 +1,7 @@
 ---
 layout: post
 type: 1
-title: "Đóng cọc Tiền Điện Tử là gì?"
+title: "Ký Gửi Tiền Số"
 subtitle: "Crypto Staking - Crypto Intro 9"
 background: '/img/posts/crypto-introduction-9/bg-staking.png'
 ---
