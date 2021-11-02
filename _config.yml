@@ -24,7 +24,6 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
-  - jekyll-toc
 
 sass:
   sass_dir: _sass
