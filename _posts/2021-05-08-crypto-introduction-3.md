@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Khái Niệm về Ethereum"
 subtitle: "Ethereum - Crypto Intro 3"
 background: '/img/posts/crypto-introduction-3/bg-ether.png'

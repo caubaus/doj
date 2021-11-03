@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Tiền Điện Tử là gì?"
 subtitle: "Cryptocurrency - Crypto Intro 1"
 author: Trinh Nguyen Ba

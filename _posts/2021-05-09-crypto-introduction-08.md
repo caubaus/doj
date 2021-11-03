@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Khái Niệm về DeFi"
 subtitle: "DeFi - Crypto Intro 8"
 background: '/img/posts/crypto-introduction-8/bg-defi.png'

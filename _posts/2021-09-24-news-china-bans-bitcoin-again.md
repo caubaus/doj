@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 0
+type: news
 title: "Trung Quốc lại cấm Bitcoin"
 subtitle: "China bans Bitcoin again"
 author: Nam Le

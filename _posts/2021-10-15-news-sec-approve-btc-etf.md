@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 0
+type: news
 title: "Tất tần tật về Bitcoin ETF"
 subtitle: "Understanding Bitcoin ETF"
 author: Trinh Nguyen Ba

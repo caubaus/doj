@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 2
+type: stock
 title: "Khái Niệm SPAC"
 subtitle: "What is a SPAC - Stock Intro 8"
 background: '/img/posts/stock-introduction-08/spac.png'

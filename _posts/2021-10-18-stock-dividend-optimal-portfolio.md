@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 2
+type: stock
 title: "Những mã cổ phiếu cho Rổ Đầu Tư tối ưu"
 subtitle: "Dividend Optimal Portfolio"
 background: '/img/posts/stock-dividend-optimal-portfolio/stock-dividend-optimal-portfolio.png'

@@ -5,7 +5,7 @@ background: '/img/bg-brief.jpg'
 ---
 LAST UPDATED: {{ 'now' | date: '%B %d, %Y' }}
 {% for post in site.posts %}
-  {% if post.type == 4 %} 
+  {% if post.type == 'rumor' %} 
     <div class="post-header">
     
       {% if post.background %}
