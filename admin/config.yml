@@ -20,7 +20,7 @@ collections:
           widget: 'select', 
           options: [
             { label: 'Stock', value: 'stock'},
-            { label: 'crypto', value: 'crypto'},
+            { label: 'Crypto', value: 'crypto'},
             { label: 'News', value: 'news'},
             { label: 'Option', value: 'option'},
             { label: 'Rumor', value: 'rumor'},
