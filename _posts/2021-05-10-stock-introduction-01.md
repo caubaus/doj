@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 2
+type: stock
 title: "Thị Trường Chứng Khoán"
 subtitle: "Stock Market - Stock Intro 1"
 background: '/img/posts/stock-introduction-01/bg-stock-introduction-01.png'

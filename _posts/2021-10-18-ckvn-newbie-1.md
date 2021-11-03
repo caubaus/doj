@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 5
+type: ckvn
 title: "Tại sao cần học về đầu tư?"
 subtitle: "Chứng Khoán Việt Nam cho người mới bắt đầu"
 author: Trinh Nguyen Ba

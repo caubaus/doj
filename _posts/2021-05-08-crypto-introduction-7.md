@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Đào Tiền Số"
 subtitle: "Crypto Mining - Crypto Intro 7"
 background: '/img/posts/crypto-introduction-7/bg-coinmining.png'

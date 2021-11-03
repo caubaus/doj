@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Hướng dẫn sử dụng ví SafePal để kết nối và giao dịch crypto với sàn Binance quốc tế"
 subtitle: "Crypto Wallet - Safepal x Binance"
 author: Huy Nguyen
@@ -23,12 +23,7 @@ Nhiều anh chị em ở US có nhu cầu cần mua một số coin/token ở s�
 4. Tiếp theo ace sẽ tạo khóa màn hình bằng cách vẽ theo các điểm nối màn hình , mỗi lần thoát ra ngoài vào ví lại trên điện thoại thay vì nhập mật khẩu , ace chỉ cần vẽ khóa màn hình là xong.
 ![safepal_4](/img/posts/crypto-safepal-giao-dich-binance/safepal_4.jpg)
 
-5. Sau đó ace lại click tiếp vào Software Wallet 1 lần nữa >>>  Create Wallet >>> nhập mật khẩu ace vừa khởi tạo lúc nãy >>> Wallet Name:  
-Đặt tên cho Ví của  ace.
-Number of mnemonic phrase : tùy chọn 12 hoặc 24 từ khóa bảo mật để ghi nhớ
-
-**LƯU Ý : 12 hoặc 24 từ khóa này cực kì quan trọng, dùng để đăng nhập vào ví , Ace cần phải ghi nhớ , có thể viết vào giấy , lưu vào bât kì phương tiện gì mà ace cho là bảo mật nhất .Vì khi mất cụm từ bảo mật này không ai có thể tìm lại được cho ace.**
-
+5. Sau đó ace lại click tiếp vào Software Wallet 1 lần nữa >>>  Create Wallet >>> nhập mật khẩu ace vừa khởi tạo lúc nãy >>> Wallet Name: Đặt tên cho Ví của  ace . Number of mnemonic phrase : tùy chọn 12 hoặc 24 từ khóa bảo mật để ghi nhớ. **LƯU Ý: 12 hoặc 24 từ khóa này cực kì quan trọng, dùng để đăng nhập vào ví , Ace cần phải ghi nhớ , có thể viết vào giấy , lưu vào bât kì phương tiện gì mà ace cho là bảo mật nhất .Vì khi mất cụm từ bảo mật này không ai có thể tìm lại được cho ace.**
 ![safepal_5](/img/posts/crypto-safepal-giao-dich-binance/safepal_5.jpg)
 
 6. Ace chọn Back up my phrase >>> lúc này 1 bảng thông báo sẽ hiện lên , ace đọc xong tích xanh ở cuối 3 đề mục và chọn >>> understood. Lúc này sẽ xuất hiện cụm từ khóa bảo mật cho ace  ghi hoặc sao lưu lại.

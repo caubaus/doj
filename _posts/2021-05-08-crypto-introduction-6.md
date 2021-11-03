@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Công Nghệ Chuỗi Khối"
 subtitle: "Blockchain - Crypto Intro 6"
 background: '/img/posts/crypto-introduction-6/bg-blockchain.png'

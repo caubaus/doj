@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 2
+type: stock
 title: "Chỉ Số Beta"
 subtitle: "Beta - Stock Intro 6"
 background: '/img/posts/stock-introduction-06/bg-stock-introduction-06.png'

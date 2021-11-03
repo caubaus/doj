@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Cho Vay Tiền Số"
 subtitle: "Crypto Lending - Crypto Intro 10"
 background: '/img/posts/crypto-introduction-10/bg-lending.png'

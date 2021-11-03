@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 2
+type: stock
 title: "Chỉ Số PB"
 subtitle: "PB Ratio - Stock Intro 4"
 background: '/img/posts/stock-introduction-04/bg-stock-introduction-04.png'
