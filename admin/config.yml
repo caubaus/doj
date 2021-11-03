@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: caubaus/doj
+  branch: netlify-cms
 
 media_folder: "img/uploads"
 
