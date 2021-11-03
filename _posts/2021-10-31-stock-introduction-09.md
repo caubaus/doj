@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 2
+type: stock
 title: "Warrant của công ty SPAC là gì?"
 subtitle: "What is Warrant - Stock Intro 9"
 background: '/img/posts/stock-introduction-09/bg-warrant.jpg'

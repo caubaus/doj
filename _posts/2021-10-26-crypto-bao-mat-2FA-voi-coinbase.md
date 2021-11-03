@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Bảo mật 2 lớp Google Authenticator - Coinbase"
 subtitle: "Crypto Security - 2FA"
 author: Trung Le

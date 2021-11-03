@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 2
+type: stock
 title: 'Định Giá Cổ Phiếu'
 subtitle: 'How to value a stock - Stock Intro 2'
 background: '/img/posts/stock-introduction-02/bg-stock-introduction-02.png'

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Thị Trường Tiền Số"
 subtitle: "Cryptocurrency Market - Crypto Intro 4"
 background: '/img/posts/crypto-introduction-4/bg-cryptomarket.png'

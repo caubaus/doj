@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 1
+type: crypto
 title: "Hướng dẫn sử dụng ví SafePal để kết nối và giao dịch crypto với sàn Binance quốc tế"
 subtitle: "Crypto Wallet - Safepal x Binance"
 author: Huy Nguyen

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: 6
+type: option
 title: "Long Call Option"
 subtitle: "Option Basics 1"
 author: Trinh Nguyen Ba
