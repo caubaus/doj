@@ -1,6 +1,8 @@
 backend:
   name: github
   repo: caubaus/doj
+  branch: master
+  site_domain: streetone.org
 
 media_folder: "img/uploads"
 
