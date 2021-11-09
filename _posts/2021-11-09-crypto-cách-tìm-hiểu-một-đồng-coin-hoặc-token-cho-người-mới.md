@@ -52,11 +52,7 @@ Có 2 trang thông tin lớn nhất về crypto hiện nay là [Coinmarketcap.co
 * PROJECT INFO ,ICO : một dự án có thể bán trước một số lượng nhỏ token cho người tham gia đầu tư nhỏ lẻ với các hình  ICO , IDO , IEO  . Ace có thể dựa vào đây để biết được giá khởi bán so với giá hiện tại, bao nhiêu % token được phân bổ cho những bên liên quan : quỹ đầu tư , team phát triển dự án , duy trì dự án…
 * WALLET : Những dạng ví có thể lưu trữ  token này , đôi khi một số token chưa được list trên sàn tập trung ace cần biết để có thể lưu trữ token trên ví.
 
-
-
 ## Phần 2: Check thông tin trên trang chủ của dự án
-
-
 
 **Vừa qua là một số thông tin mà ace có thể tìm thấy về một dự án trên Coinmarketcap. Trường hợp dự án chưa có thông tin thì chúng ta cần phải kiểm tra trực tiếp trên website của dự án đó , vậy cần phải tìm hiểu gì khi  kiểm tra thông tin trong website đó?**
 
@@ -88,24 +84,20 @@ Dự Án đã bán ICO , IDO hay IEO bao nhiêu % ? Hình thức chào bán như
 
 **ROADMAP** : dự án thông thường sẽ có road map rõ ràng , và hoàn thành tiến độ công việc , cập nhật  dự án theo đúng lộ trình.( kiểm tra ngược lại với KÊNH THÔNG TIN)
 
-**Bước 6**
+### **Bước 6**
 
 **BACKER + VENTURES** : nếu dự án có dàn đầu tư khủng, quỹ đầu tư  phía sau thì đó là thêm điểm cộng rất tốt cho dự án . Những quỹ đầu tư này thường đầu tư sớm vào dự án. Họ có khả năng thẩm định dự án, làm marketing , hỗ trợ chiến lược  hướng đi của dự án …
 
 **LƯU Ý** cần kiểm tra cẩn thận lại kênh thông tin của các QUỸ ĐẦU TƯ có thực sự hợp tác với dự án không? Đôi khi một số dự án lừa đảo và thông tin đưa ra là không chính xác với những gì đã quảng bá.
 
-**Bước 7**
+### **Bước 7**
 
 **PARTNERS :** đối tác với dự án là ai ? họ hợp tác những gì với dự án? Ví dụ một dự án tuyên bố có hợp tác với Binance , nhưng thực sự họ cũng chỉ chạy trên hệ thống blockchain của Binance , ngoài ra không có bất kì can thiệp gì với dự án cả. ACE nên lưu ý kiểm tra lại kênh thông tin các đơn vị đối tác để có quyết định chính xác.
-
-
 
 ## Tổng kết
 
 Tất cả những điều  trên hi vọng ace đã có thêm nhiều thông tin của một dự án nào đó, thêm nhiều kiến thức và niềm tin với các dự án mà ace lựa chọn .
 
 Huy Nguyen S1J Team
-
-
 
 <!--EndFragment-->
