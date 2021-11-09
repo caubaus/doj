@@ -1,13 +1,13 @@
 ---
 layout: post
 type: ckvn
-title: TIỀM NĂNG THỊ TRƯỜNG CHỨNG KHOÁN VIỆT NAM TƯƠNG LAI
+title: Tiềm Năng Thị Trường Chứng Khoán Việt Nam Tương Lai
 subtitle: Potential of Vietnam Stock Market
 author: Chi Nguyen
 background: /img/uploads/quyn8640-1620293834-7524-1620293925.jpeg
 date: 2021-11-09T04:40:02.345Z
 ---
-#### Bối 
+#### Bối cảnh
 
 Thời gian qua, thị trường chứng khoán Việt Nam phát triển vượt bậc với thanh khoản vượt qua cả một số thị trường lớn trong khu vực như Malaysia, Indonesia…
 
