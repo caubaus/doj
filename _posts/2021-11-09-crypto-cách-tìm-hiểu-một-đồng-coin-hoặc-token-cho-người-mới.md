@@ -76,11 +76,11 @@ Dự Án đã bán ICO , IDO hay IEO bao nhiêu % ? Hình thức chào bán như
 
 **KÊNH THÔNG TIN :** dự án thường ngoài website sẽ có kênh thông tin như : Twitter, Telegram, Facebook …đây cũng là một cách để suy xét xem dự án có được nhiều người ủng hộ , theo dõi không.
 
-### Bước 4
+### **Bước 4**
 
 **TEAM :** cần theo dõi team phát triển dự án là ai , có thể tra cứu thông tin của họ trên google , twitter , facebook … để biết họ là ai , từng có thành tích gì. Không phải dự án nào cũng có thể biết đội ngũ phát triển đôi khi họ ẩn danh, nhưng biết được chính xác là ai thì sẽ là một điểm cộng cho đầu tư.
 
-### Bước 5
+### **Bước 5**
 
 **ROADMAP** : dự án thông thường sẽ có road map rõ ràng , và hoàn thành tiến độ công việc , cập nhật  dự án theo đúng lộ trình.( kiểm tra ngược lại với KÊNH THÔNG TIN)
 
