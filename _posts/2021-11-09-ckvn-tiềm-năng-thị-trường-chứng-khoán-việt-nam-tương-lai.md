@@ -29,7 +29,7 @@ Thứ ba, trong giai đoạn dân số vàng, tầng lớp trung lưu tăng nhan
 
 Mặc dù tầm nhìn dài hạn tiềm năng, nhưng ngắn hạn các nhà đầu tư nên cẩn thận. Thời gian qua, xu hướng lãi suất tiết kiệm duy trì ở mức thấp sẽ khiến cho dòng vốn chuyển dịch qua kênh chứng khoán nhiều hơn, nhưng thời gian tới còn nhiều tiềm ẩn rủi ro lạm phát tăng cao, và Fed có thể bắt đầu tăng lãi suất sớm hơn kế hoạch ban đầu và thu hẹp các chương trình mua tài sản (đồng nghĩa rút dần chính sách tiền tệ nới lỏng) điều này làm dấy lên lo ngại về dòng vốn đầu tư nước ngoài rút khỏi các thị trường mới nổi và cận biên; trong đó có Việt Nam.
 
-ó một điều thú vị là gần đây mình có quan tâm đến VNM đơn giản chỉ là vì Phân tích kỹ thuật thôi, chứ chưa xét tới Phân tích cơ bản. Sáng nay, khi xem chỉ số MSCI mới nhất thì phát hiện ra điều thú vị VNM nằm trong rổ chỉ số MSCI với tỷ trọng 2.93%. Cá con như mình suy nghĩ nhiều mợt, hay là bơi theo cá mập thôi ahihi.
+Có một điều thú vị là gần đây mình có quan tâm đến VNM đơn giản chỉ là vì Phân tích kỹ thuật thôi, chứ chưa xét tới Phân tích cơ bản. Sáng nay, khi xem chỉ số MSCI mới nhất thì phát hiện ra điều thú vị VNM nằm trong rổ chỉ số MSCI với tỷ trọng 2.93%. Cá con như mình suy nghĩ nhiều mợt, hay là bơi theo cá mập thôi ahihi.
 
 ![](https://lh6.googleusercontent.com/hsSuPSRBH6VJzZMqONaKDGraZv6fc4nztJ7j7Q7EoqAj3aVo8b354FJhbBi70Pt92_qDMDIdkavrY0TALrh_1zyS5sxcyNchGIJWXuEQY5en-erJ-KP1SDY85CNOERpZEOPvSuOrLwCXan5YncY)
 
