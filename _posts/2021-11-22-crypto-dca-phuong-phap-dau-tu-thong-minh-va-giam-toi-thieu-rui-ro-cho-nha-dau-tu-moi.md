@@ -34,7 +34,7 @@ Như vậy ta có thể thấy những ưu điểm của cách thức đầu tư
 * Không cần phải bỏ nhiều thời gian theo dõi thị trường,đầu tư với số tiền nhỏ nhưng lợi nhuận đạt được khá cao theo thời gian.
 * Nhà đầu tư tránh khỏi nhầm lẫn thị trường , fomo có được suy nghĩ đầu tư dài hạn.
 
-Tuy nhiên cũng có một số vấn đề lưu ý :
+**Tuy nhiên cũng có một số vấn đề lưu ý** :
 
 * Phải chọn đúng loại tài sản đầu tư ( rủi ro thấp , có khả năng tăng trưởng dài hạn).
 * Người đầu tư phải có tâm lý đánh giá tích cực về thị trường trong tương lai dài.
