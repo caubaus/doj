@@ -15,11 +15,7 @@ DCA viết tắt là Dollar-Cost Averaging ( trung bình hóa chi phí đầu t�
 
 Một ví dụ dễ hiểu về DCA chúng ta có thể thấy rõ ông bà , cha mẹ chúng ta ngày xưa vẫn hay DCA vào vàng. Mỗi tháng hay vài tuần có khoản thu nhập dư thừa các cụ vẫn hay mua 1 đến 2 chỉ vàng. Vậy theo thời gian tích lũy số vàng đó cộng với việc vàng tăng giá đã dẫn đến việc phát sinh lợi nhuận cao hơn là giữ tiền mặt hay gửi tiền mặt lấy lãi trong ngân hàng .
 
-
-
 ![Biểu đồ tăng trưởng toàn thời gian của vàng](/img/uploads/crypto-dca-2.png)
-
-
 
 Dựa vào biểu đồ giá vàng theo từng năm tháng chúng ta có thể thấy mặc dù có những đợt điều chỉnh lên xuống nhưng theo năm tháng vẫn tăng trưởng không ngừng.
 
@@ -28,17 +24,9 @@ Quay trở lại thị trường crypto , là một thị trường có tính ch
 
 ![Biểu đồ tăng trưởng toàn thời gian của Bitcoin](/img/uploads/crypto-dca-3.png)
 
-
-
-Dựa theo bảng tính toán của <https://www.bitcoindollarcostaverage.com/> 
-
-Nếu ace DCA Bitcoin  từ 12/2017 đến 11/2021 với số tiền $500 mỗi tháng
-
-Thì tổng số tiền ace bỏ ra là $24000 và lợi nhuận thu được là $155,939.86 với giá trị Bitcoin hiện nay là $59285.
+Dựa theo bảng tính toán của <https://www.bitcoindollarcostaverage.com/> .Nếu ace DCA Bitcoin  từ 12/2017 đến 11/2021 với số tiền $500 mỗi thángThì tổng số tiền ace bỏ ra là $24000 và lợi nhuận thu được là $155,939.86 với giá trị Bitcoin hiện nay là $59285.
 
 ![](/img/uploads/cryto-dca-4.png)
-
-
 
 Như vậy ta có thể thấy những ưu điểm của cách thức đầu tư DCA này như sau:
 
@@ -56,11 +44,5 @@ Tuy nhiên cũng có một số vấn đề lưu ý :
 Hi vọng với phương thức đầu tư DCA này ace sẽ giảm thiểu được rủi ro , tăng lợi nhuận khi đầu tư trong thời gian dài một cách bền vững.
 
 *Huy Nguyen S1J Team*
-
-
-
-
-
-
 
 <!--EndFragment-->
