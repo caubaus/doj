@@ -5,7 +5,7 @@ title: DCA Phương pháp đầu tư thông minh và giảm tối thiểu rủi 
 subtitle: Dollar-Cost Averaging
 author: Huy Nguyen
 background: /img/uploads/crypto-dca-1.png
-date: 2021-11-14T08:09:19.295Z
+date: 2021-11-22T00:17:04.526Z
 ---
 # **DCA , Phương pháp đầu tư thông minh và giảm tối thiểu rủi ro cho nhà đầu tư.**
 
