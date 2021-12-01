@@ -45,5 +45,6 @@ Một tựa game đình đám chuẩn bị ra mắt trong thị trường Crypto
 
 Đáng nói hơn đội ngũ phát triển FOTA chính là những Developer người Việt, hi vọng với lợi thế về công nghệ đi đầu trong xu hướng Metaverse hiện nay trong lĩnh vực Gamefi . FOTA sẽ không phụ lòng mong đợi của cộng đồng game thủ nói riêng và giới yêu thích công nghệ nói chung.
 
-\
+*Huy Nguyen S1J Team*
+
 <!--EndFragment-->
