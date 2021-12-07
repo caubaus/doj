@@ -13,7 +13,7 @@ Metaverse đang là một trend rất hot của thị trường Crypto nói riê
 
 **Công nghệ VR là gì ?**
 
-Giải thích đơn giản dễ hiểu Virtual Reality - Thực tế ảo thông qua các công cụ , sản phẩm tích hợp như kính, tay cầm … sẽ mang người sử dụng đến một thế giới ảo ,nơi mà các hình ảnh  đều được tạo dựng nên từ ứng dụng/ phần cứng , tất cả đều là ảo nhưng tương tác với bạn rất thật rất sinh động.
+Giải thích đơn giản dễ hiểu Virtual Reality - Thực tế ảo thông qua các công cụ , sản phẩm tích hợp như kính, tay cầm … sẽ mang người sử dụng đến một thế giới ảo ,nơi mà các hình ảnh  đều được tạo dựng nên từ ứng dụng/ phần cứng , tất cả đều là ảo nhưng tương tác với ace rất thật rất sinh động.
 
 Ứng dụng thực tế : Nhà trường có thể đưa học sinh  vào các tiết học sinh vật biển với VR , học sinh có thể cảm nhận môi trường đại dương với cá bơi lội và những rặn san hô ngập tràn sắc màu thật thực tiễn và sinh động.
 
@@ -29,7 +29,9 @@ Nếu ace từng điên đảo vì tựa game Pokemon Go, từng chạy đi từ
 
 **Công nghệ MR là gì ?**
 
-MR Mixed Reality  (Thực tế hỗn hợp) là một thế giới hỗn hợp giữa thế giới thực và thế giới ảo, trong đó các vật thể thực và ảo đều tồn tại và tương tác trong thời gian thực. MR là sự kết hợp của công nghệ VR và AR. Trong MR, những thứ của thế giới thực và thế giới ảo sẽ tương tác với nhau. 
+MR Mixed Reality  (Thực tế hỗn hợp) là một thế giới hỗn hợp giữa thế giới thực và thế giới ảo, trong đó các vật thể thực và ảo đều tồn tại và tương tác trong thời gian thực. MR là sự kết hợp của công nghệ VR và AR. Trong MR, những thứ của thế giới thực và thế giới ảo sẽ tương tác với nhau. Điển hình như người trải kiệm có thể dùng tay, tác động lên vật thể ảo ( xoay, cầm , nắm , di chuyển..) trong bối cảnh là không gian thực xung quanh.
+
+
 
 ![](/img/uploads/crypto-vr-4.jpg)
 
