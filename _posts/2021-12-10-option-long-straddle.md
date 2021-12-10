@@ -23,7 +23,7 @@ date: 2021-12-10T21:28:14.534Z
 
 * Đây là một phương pháp Option kinh điển cho những người muốn đặt cược vào một sự kiện nào đó trong tương lai (Event Study) và tin rằng sự kiện đó sẽ tạo ra dịch chuyển mạnh đối với giá cổ phiếu. Một số sự kiện tiêu biểu như: Earning Report, Exercutive Election, Product Announcement, Polictical Election vv...
 
-* Implied Volatility (IV) cũng là chỉ số quan trọng trong phương pháp, bạn nên kích hoạt Trade khi thị trường đang có IV thấp (ví dụ: 1 tuần trước ngày xảy ra sự kiện), vì Trade này có thể hiểu là bạn đang Long Volatility.
+* Implied Volatility (IV) cũng là chỉ số quan trọng trong phương pháp, bạn nên kích hoạt Trade khi thị trường đang có IV thấp (ví dụ: 1 tuần trước ngày xảy ra sự kiện), vì Trade này có thể hiểu là bạn đang ___Long Volatility___.
 
 * Một thí dụ: Apple #AAPL (giá hiện tại: $148) sẽ có Earning Report vào thứ 4 tuần này (Oct 27th). EPS Estimate là $1.24. Với việc Apple vừa cho ra mắt dòng iPhone 13 và thế hệ MacBook mới thì có lẽ một số người nhân định ER Report này sẽ là sự kiện quan trọng và có thể làm biến động giá cổ phiếu #AAPL.
 
