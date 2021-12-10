@@ -23,16 +23,16 @@ date: 2021-12-10T21:28:14.534Z
 * Một thí dụ: Apple #AAPL (giá hiện tại: $148) sẽ có Earning Report vào thứ 4 tuần này (Oct 27th). EPS Estimate là $1.24. Với việc Apple vừa cho ra mắt dòng iPhone 13 và thế hệ MacBook mới thì có lẽ một số người nhân định ER Report này sẽ là sự kiện quan trọng và có thể làm biến động giá cổ phiếu #AAPL.
 * Nếu bạn cũng chung nhận định với họ, và muốn kiếm lợi từ sự biến động này (lên hoặc xuống) thì có thể thử phương pháp Straddle như sau:
 
-> * Buy 1 Call #AAPL, Strike: 150, Exp: Oct 29th 2021, với giá $1.80
-> * Buy 1 Put #AAPL, Strike: 150, Exp: Oct 29th 2021, với giá $3.10
+> - Buy 1 Call #AAPL, Strike: 150, Exp: Oct 29th 2021, với giá $1.80
+> - Buy 1 Put #AAPL, Strike: 150, Exp: Oct 29th 2021, với giá $3.10
 
 * Tổng số vốn bạn bỏ ra sẽ là: $4.90 (tương đương $490 cho 100 shares)
 * Endgame của trade này như sau:
 
-> * Trade này có 2 điểm hoà vốn: 146.9 và 151.8
-> * Nếu tới trước ngày Oct 29th mà giá #AAPL đã giảm dưới 146.9 hoặc tăng lên trên 151.8 thì bạn lời (nhớ chốt lời).
-> * Nếu tới hết ngày Oct 29th mà giá #AAPL chỉ quanh quẩn nằm từ 146.9 tới 151.8 thì bạn lỗ.
-> * Con số lỗ tối đa là $490, nhưng khả năng lỗ hết $490 là rất thấp (vì để xảy ra trường hợp này, giá #AAPL phải đóng đúng $150 vào cuối ngày Oct 29th), bạn có thể hiểu rằng con số lỗ thường sẽ < $490, lỗ bao nhiều còn tuỳ vào giá chính xác của #AAPL vào ngày ấy. Nhưng bạn nên có biện pháp cắt lỗ khi tới một hạn mức nào đó chứ đừng để lỗ quá 50%.
+> - Trade này có 2 điểm hoà vốn: 146.9 và 151.8
+> - Nếu tới trước ngày Oct 29th mà giá #AAPL đã giảm dưới 146.9 hoặc tăng lên trên 151.8 thì bạn lời (nhớ chốt lời).
+> - Nếu tới hết ngày Oct 29th mà giá #AAPL chỉ quanh quẩn nằm từ 146.9 tới 151.8 thì bạn lỗ.
+> - Con số lỗ tối đa là $490, nhưng khả năng lỗ hết $490 là rất thấp (vì để xảy ra trường hợp này, giá #AAPL phải đóng đúng $150 vào cuối ngày Oct 29th), bạn có thể hiểu rằng con số lỗ thường sẽ < $490, lỗ bao nhiều còn tuỳ vào giá chính xác của #AAPL vào ngày ấy. Nhưng bạn nên có biện pháp cắt lỗ khi tới một hạn mức nào đó chứ đừng để lỗ quá 50%.
 
 ##### Lời Kết
 
