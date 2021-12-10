@@ -34,6 +34,7 @@ date: 2021-12-10T21:20:59.181Z
   * Strike K = 22
   * Expiration Date: Oct 29th 2021
   * Và thu về được một số tiền (Put Premium = $0.65/cp * 100 = $65)
+
 * Dịch sang ngôn ngữ bình dân như sau: mình đã bán một cái Put Option và có NGHĨA VỤ phải mua 100 cp #PLTR ở mức giá $22/cp bất kỳ lúc nào đối phương (người mua Put Option) muốn kích hoạt giao dịch, từ hôm nay cho tới ngày đáo hạn Oct 29th 2021. Để bù đắp cho nghĩa vụ này, đối phương trả cho mình một số tiền là $65 (Put Premium).
   Khi thực hiện giao dịch này, trong đầu mình đang nghĩ tới 2 viễn cảnh.
 * Nếu tới ngày Oct 29th 2021 mà giá của #PLTR đóng trên giá Strike (> $22) thì chắc chắn đối phương sẽ không kích hoạt giao dịch (vì họ có thể bán cp #PLTR trên thị trường với giá cao hơn thì ngu gì lại bán cho mình với giá có $22). Trong trường hợp này, Put Option trở nên vô giá trị, bị vất vào xọt rác và bạn cầm trong tay số tiền $65 ban đầu (cái này gọi là thu nhập thụ động - Passive Income).
