@@ -9,14 +9,16 @@ date: 2021-12-10T21:20:59.181Z
 ---
 ##### Khái Niệm
 
-* Sell Secured Put nói nôm na là Bán hợp đồng Put Contract cho một bên khác và người bán (là chính bạn) sẽ được chi trả một số tiền gọi là Put Premium.
-  Bạn còn nhớ khi chúng ta mua Put thì chúng ta phải trả một số tiền nào đó (gọi là Cost) nhưng bây giờ chúng ta là bên bán (Seller) nên thay vào đó chúng ta sẽ được hưởng số tiền này.
+* Sell Secured Put nói nôm na là Bán hợp đồng Put Contract cho một bên khác và người bán (là chính bạn) sẽ được chi trả một số tiền gọi là Put Premium. Bạn còn nhớ khi chúng ta mua Put thì chúng ta phải trả một số tiền nào đó (gọi là Cost) nhưng bây giờ chúng ta là bên bán (Seller) nên thay vào đó chúng ta sẽ được hưởng số tiền này.
+
 * Nhắc lại định nghĩa của Buy Put là: mua cái quyền được thanh lý một cổ phiếu nào đó (Underlying Stock), ở một mức giá nào đó (Strike Price), tại bất kỳ thời điểm nào trước ngày đáo hạn (Expiration Date). Người mua Put phải trả tiền cho người bán Put (số tiền này gọi là Cost hoặc Put Premium), cũng giống như mua bảo hiểm vậy.
 
 ##### Chi Tiết
 
 * Như vậy, nếu đổi ngược lại, thay vì làm người mua Put, bây giờ bạn là bên bán Put Contract (giống như bạn bán bảo hiểm) thì bạn có NGHĨA VỤ (hoặc cam kết) phải mua lại cổ phiếu của đối phương (Vì họ có quyền bán nên bạn phải có nghĩa vụ mua), cũng ở mức giá Strike (K) đó, và đối phương có quyền kích hoạt hợp đồng này ở bất kỳ thời điểm nào trước ngày đáo hạn. Để bù đắp cho NGHĨA VỤ này, đối phương sẽ trả cho bạn một số tiền gọi là Put Premium (bằng đúng giá trị của Put Option ở thời điểm bạn bán).
+
 * Nhiều người bảo rằng Sell Secured Put là phương pháp đầu tư an toàn nhất trong Options, sự thật đúng là như vậy. Người Sell Secured Put là người tin tưởng (hoặc hi vọng) giá cổ phiếu sẽ đi lên (hoặc ít nhất là không đi xuống quá sâu) là bạn đã có thể có lời.
+
 * Khi bạn sell Put, mục tiêu của bạn là để đạt 1 trong 2 thứ sau đây:
 
   * Kiếm thêm tiền thu nhập thụ động (từ Put Premium)
