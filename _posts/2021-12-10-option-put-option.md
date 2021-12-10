@@ -1,9 +1,9 @@
 ---
 layout: post
 type: option
-title: Put Option
-subtitle: Buy Put Option
-author: Trinh Nguyen Ba
+title: Long Put Option
+subtitle: Long Put
+author: A3
 background: /img/uploads/240525049_10216789992460507_4666442444156741978_n.jpeg
 date: 2021-12-10T21:15:48.051Z
 ---
