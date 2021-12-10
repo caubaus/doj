@@ -18,10 +18,11 @@ date: 2021-12-10T21:20:59.181Z
 * Như vậy, nếu đổi ngược lại, thay vì làm người mua Put, bây giờ bạn là bên bán Put Contract (giống như bạn bán bảo hiểm) thì bạn có NGHĨA VỤ (hoặc cam kết) phải mua lại cổ phiếu của đối phương (Vì họ có quyền bán nên bạn phải có nghĩa vụ mua), cũng ở mức giá Strike (K) đó, và đối phương có quyền kích hoạt hợp đồng này ở bất kỳ thời điểm nào trước ngày đáo hạn. Để bù đắp cho NGHĨA VỤ này, đối phương sẽ trả cho bạn một số tiền gọi là Put Premium (bằng đúng giá trị của Put Option ở thời điểm bạn bán).
 * Nhiều người bảo rằng Sell Secured Put là phương pháp đầu tư an toàn nhất trong Options, sự thật đúng là như vậy. Người Sell Secured Put là người tin tưởng (hoặc hi vọng) giá cổ phiếu sẽ đi lên (hoặc ít nhất là không đi xuống quá sâu) là bạn đã có thể có lời.
 * Khi bạn sell Put, mục tiêu của bạn là để đạt 1 trong 2 thứ sau đây:
-  - Kiếm thêm tiền thu nhập thụ động (từ Put Premium)
-  - Mua cổ phiểu tốt ở giá rẻ hơn giá hiện tại trên thị trường (khi hợp đồng bị kích hoạt).
 
-![](/img/uploads/243480660_10216908453221952_3076735759542231685_n.jpeg)
+  * Kiếm thêm tiền thu nhập thụ động (từ Put Premium)
+  * Mua cổ phiểu tốt ở giá rẻ hơn giá hiện tại trên thị trường (khi hợp đồng bị kích hoạt).
+
+![Sell Secured Put](/img/uploads/243480660_10216908453221952_3076735759542231685_n.jpeg "Sell Secured Put")
 
 ##### Ví Dụ
 
@@ -29,9 +30,10 @@ date: 2021-12-10T21:20:59.181Z
 * Giá cổ phiểu #PLTR vì nhiều lý do mà những ngày này đang bị rớt thảm hại xuống mức gần $24/cp.
 * Nhưng nhìn về tổng thể thì đây vẫn công ty tốt để đầu tư nếu xét về qui mô thị trường Data Mining trong tương lai.
 * Giả sử mình quyết định đầu tư vào #PLTR bằng cách Sell Secured Put với:
-* Strike K = 22
-* Expiration Date: Oct 29th 2021
-* Và thu về được một số tiền (Put Premium = $0.65/cp * 100 = $65)
+
+  * Strike K = 22
+  * Expiration Date: Oct 29th 2021
+  * Và thu về được một số tiền (Put Premium = $0.65/cp * 100 = $65)
 * Dịch sang ngôn ngữ bình dân như sau: mình đã bán một cái Put Option và có NGHĨA VỤ phải mua 100 cp #PLTR ở mức giá $22/cp bất kỳ lúc nào đối phương (người mua Put Option) muốn kích hoạt giao dịch, từ hôm nay cho tới ngày đáo hạn Oct 29th 2021. Để bù đắp cho nghĩa vụ này, đối phương trả cho mình một số tiền là $65 (Put Premium).
   Khi thực hiện giao dịch này, trong đầu mình đang nghĩ tới 2 viễn cảnh.
 * Nếu tới ngày Oct 29th 2021 mà giá của #PLTR đóng trên giá Strike (> $22) thì chắc chắn đối phương sẽ không kích hoạt giao dịch (vì họ có thể bán cp #PLTR trên thị trường với giá cao hơn thì ngu gì lại bán cho mình với giá có $22). Trong trường hợp này, Put Option trở nên vô giá trị, bị vất vào xọt rác và bạn cầm trong tay số tiền $65 ban đầu (cái này gọi là thu nhập thụ động - Passive Income).
