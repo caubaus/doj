@@ -15,7 +15,7 @@ date: 2021-12-10T21:15:48.051Z
 
 * Khi bạn Mua một Put Option (Long Put) trên cổ phiếu #ABC (với Strike là K, ngày đáo hạn ví dụ là 12/17/2021) thì có nghĩa là bạn mua cái quyền được bán cổ phiếu #ABC này với mức giá bán là $K và bạn có thể thực hiện quyền này bất kỳ lúc nào từ hôm nay cho đến ngày đáo hạn 12/17/2021.
 
-![](/img/uploads/240525049_10216789992460507_4666442444156741978_n.jpeg)
+![Long Put](/img/uploads/240525049_10216789992460507_4666442444156741978_n.jpeg "Long Put")
 
 * Lấy ví dụ cụ thể với #NIO đi. Giá của #NIO tại thời điểm này là khoảng $40/cp.
   Giả sử bạn mua một cái Put Option trên cổ phiếu #NIO, với Strike: $50, Expiration Date: 12/17/2021.
