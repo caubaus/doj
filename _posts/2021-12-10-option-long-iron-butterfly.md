@@ -22,17 +22,17 @@ date: 2021-12-10T21:31:46.044Z
 
   * Cách thiết kế Long IF như sau, bạn chọn Expiration phù hợp (khoảng thời gian bạn nghĩ sẽ có dao động) rồi tiến hành giao dịch:
 
-> Buy 1 Call At-the-money
-> Sell 1 Call Out-the-money
-> Buy 1 Put At-the-money
-> Sell 1 Put Out-the-money
+> - Buy 1 Call At-the-money
+> - Sell 1 Call Out-the-money
+> - Buy 1 Put At-the-money
+> - Sell 1 Put Out-the-money
 
 * Lấy một ví dụ, #SNAP đang có giá $52, giả sử bạn đoán tuần sau #SNAP sẽ dao động (lên hoặc xuống), bạn chọn ngày đáo hạn là Dec 17, và thiết kế Long IF như sau:
 
-> Buy 1 Call At-the-money, Strike = 52
-> Sell 1 Call Out-the-money, Strike = 54
-> Buy 1 Put At-the-money, Strike = 52
-> Sell 1 Put Out-the-money, Strike = 50
+> - Buy 1 Call At-the-money, Strike = 52
+> - Sell 1 Call Out-the-money, Strike = 54
+> - Buy 1 Put At-the-money, Strike = 52
+> - Sell 1 Put Out-the-money, Strike = 50
 
 * Kết quả của trade này:
 
