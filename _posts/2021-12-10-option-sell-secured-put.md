@@ -3,11 +3,11 @@ layout: post
 type: option
 title: Sell Secured Put
 subtitle: Short Put
-author: Trinh Nguyen Ba
+author: A3
 background: /img/uploads/243480660_10216908453221952_3076735759542231685_n.jpeg
 date: 2021-12-10T21:20:59.181Z
 ---
-##### Khái 
+##### Khái Niệm
 
 - Sell Secured Put nói nôm na là Bán hợp đồng Put Contract cho một bên khác và người bán (là chính bạn) sẽ được chi trả một số tiền gọi là Put Premium.
 Bạn còn nhớ khi chúng ta mua Put thì chúng ta phải trả một số tiền nào đó (gọi là Cost) nhưng bây giờ chúng ta là bên bán (Seller) nên thay vào đó chúng ta sẽ được hưởng số tiền này.
@@ -24,7 +24,7 @@ Bạn còn nhớ khi chúng ta mua Put thì chúng ta phải trả một số ti
 Kiếm thêm tiền thu nhập thụ động (từ Put Premium)
 Mua cổ phiểu tốt ở giá rẻ hơn giá hiện tại trên thị trường (khi hợp đồng bị kích hoạt).
 
-##### Ví 
+##### Ví Dụ
 
 - #PLTR (Palantir Technologies Inc) là doanh nghiệp về khai thác dữ liệu (Data Mining)
 
