@@ -23,17 +23,17 @@ date: 2021-12-10T21:31:46.044Z
 * Nhìn vào chart P/L của Long IF bạn thấy trade này sẽ lời (phần màu xanh) khi giá của cổ phiếu dao động đủ mạnh về 1 trong 2 hướng (tăng hoặc giảm). Nôm na là, bạn sẽ hy vọng giá cổ phiếu sẽ tăng mạnh hoặc giảm mạnh ra khỏi một phạm vi nào đó. Nhưng nếu bạn phỏng đoán sai, và giá đứng yên hoặc dao động không đủ mạnh để thoát ra khỏi phạm vi màu đỏ thì bạn lỗ. Nhưng phần lỗ là có kiểm soát.
 * Cách thiết kế Long IF như sau, bạn chọn Expiration phù hợp (khoảng thời gian bạn nghĩ sẽ có dao động) rồi tiến hành giao dịch:
 
-> - Buy 1 Call At-the-money
-> - Sell 1 Call Out-the-money
-> - Buy 1 Put At-the-money
-> - Sell 1 Put Out-the-money
+>> - Buy 1 Call At-the-money
+>> - Sell 1 Call Out-the-money
+>> - Buy 1 Put At-the-money
+>> - Sell 1 Put Out-the-money
 
 * Lấy một ví dụ, #SNAP đang có giá $52, giả sử bạn đoán tuần sau #SNAP sẽ dao động (lên hoặc xuống), bạn chọn ngày đáo hạn là Dec 17, và thiết kế Long IF như sau:
 
-> - Buy 1 Call At-the-money, Strike = 52
-> - Sell 1 Call Out-the-money, Strike = 54
-> - Buy 1 Put At-the-money, Strike = 52
-> - Sell 1 Put Out-the-money, Strike = 50
+>> - Buy 1 Call At-the-money, Strike = 52
+>> - Sell 1 Call Out-the-money, Strike = 54
+>> - Buy 1 Put At-the-money, Strike = 52
+>> - Sell 1 Put Out-the-money, Strike = 50
 
 * Kết quả của trade này:
 
