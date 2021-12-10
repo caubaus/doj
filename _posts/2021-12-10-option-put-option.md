@@ -7,11 +7,11 @@ author: Trinh Nguyen Ba
 background: /img/uploads/240525049_10216789992460507_4666442444156741978_n.jpeg
 date: 2021-12-10T21:15:48.051Z
 ---
-#### Khái 
+##### Khái Niệm
 
 - Put Option là một cái quyền (nhưng không phải nghĩa vụ) được phép bán (thanh lý) một cổ phiếu nào đó (Underlying Asset) ở một mức giá nào đó (Strike Price) trước một thời hạn nào đó (Expiration Date).
 
-#### Chi Tiết
+##### Chi Tiết
 
 - Khi bạn Mua một Put Option (Long Put) trên cổ phiếu #ABC (với Strike là K, ngày đáo hạn ví dụ là 12/17/2021) thì có nghĩa là bạn mua cái quyền được bán cổ phiếu #ABC này với mức giá bán là $K và bạn có thể thực hiện quyền này bất kỳ lúc nào từ hôm nay cho đến ngày đáo hạn 12/17/2021.
 
