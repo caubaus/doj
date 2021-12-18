@@ -23,7 +23,7 @@ Những hình thức stake phổ biến:
 
 ***1 Stake trên mạng lưới với coin***
 
-Ace sẽ chuyển coin của mình vào ví sau đó chọn một pool hay validator trên mạng lưới, kết nối và stake  coin của mình vào . Sau đó nhận lãi trả bằng coin đó. 
+Ace sẽ chuyển coin của mình vào ví sau đó chọn một pool hay validator trên mạng lưới, kết nối và stake  coin của mình vào . Sau đó nhận lãi trả bằng coin đó.
 
 *Mục đích* : tham gia cùng cách máy chủ validator xác nhận các giao dịch trên mạng lưới và nhận lãi bằng phí giao dịch phát sinh trên mạng lưới.
 
@@ -32,8 +32,6 @@ Ace sẽ chuyển coin của mình vào ví sau đó chọn một pool hay valid
 *Rủi ro* :Nhìn chung,tỉ lệ rủi ro của hình thức này rất thấp trừ khi ace bị hack ví, stake nhầm và 1 pool lừa đảo.
 
 ![trên mạng lưới  của Kardia chain, chọn một validator bất kì để stake](/img/uploads/crypto-stake-2.png)
-
-
 
 ***2 Stake trên một sàn DEX (Decentralized Exchange) sàn giao dịch phi tập trung với token.***
 
@@ -47,13 +45,12 @@ Ace sẽ chuyển coin của mình vào ví sau đó chọn một pool hay valid
 
 ![Staking trên các Pool của Pancakeswap](/img/uploads/crypto-stake-3.png)
 
-
-
 ***3 Stake trên một Sàn Cex ( Centralized Exchange) sàn giao dịch tập trung với coin/token.***
 
 Hình thức này hiểu đơn giản là những sàn ( Binance , Coinbase,  Kucoin,....) Sẽ thay ace lấy coin/token đi stake ở cả 2 hình thức trên với một thời gian khóa nhất định, ace không cần phải tự thực hiện.
 
-*Mục đích* : tương tự như 2 cách trên.\
+*Mục đích* : tương tự như 2 cách trên.
+
 *Lợi nhuân*: APR thấp hơn so với 2 cách trên vì đã thông qua sàn trung gian.
 
 *Rủi ro* : Rủi ro thấp nhất , an  toàn hơn so với 2 cách trên.
