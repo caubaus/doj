@@ -57,7 +57,7 @@ Hình thức này hiểu đơn giản là những sàn ( Binance , Coinbase,  K
 
 ![Staking trên sàn Binance cùng mã token Cake như APR thấp hơn rất nhiều](/img/uploads/crypto-stake-4.png)
 
-Như vậy đối với một holder, một nhà đầu tư dài hạn staking là một hình thức gia tăng số coin/token rất cần thiết cho chiến lược đầu tư.Theo chiều dài thời gian số coin/token nắm giữ tăng tưởng + lãi suất staking được trả  tăng trưởng , người đầu tư đã tối đa hóa lợi nhuận thay vì chỉ hold tài sản trong một thời gian dài mà không hành động gì cả.
+Như vậy đối với một holder,một nhà đầu tư dài hạn staking là một hình thức gia tăng số coin/token rất cần thiết cho chiến lược đầu tư.Theo chiều dài thời gian số coin/token nắm giữ tăng tưởng + lãi suất staking được trả  tăng trưởng , người đầu tư đã tối đa hóa lợi nhuận thay vì chỉ hold tài sản trong một thời gian dài mà không hành động gì cả.
 
 *Huy Nguyen S1J Team*
 
