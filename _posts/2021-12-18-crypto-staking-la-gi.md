@@ -31,7 +31,7 @@ Ace sẽ chuyển coin của mình vào ví sau đó chọn một pool hay valid
 
 *Rủi ro* :Nhìn chung,tỉ lệ rủi ro của hình thức này rất thấp trừ khi ace bị hack ví, stake nhầm và 1 pool lừa đảo.
 
-![trên mạng lưới  của Kardia chain, chọn một validator bất kì để stake](/img/uploads/crypto-stake-2.png)
+![](/img/uploads/crypto-stake-2.png "trên mạng lưới  của Kardia chain, chọn một validator bất kì để stake")
 
 ***2 Stake trên một sàn DEX (Decentralized Exchange) sàn giao dịch phi tập trung với token.***
 
@@ -43,7 +43,7 @@ Ace sẽ chuyển coin của mình vào ví sau đó chọn một pool hay valid
 
 *Rủi ro*: DEX bị tấn công,ví bị hack, truy cập nhầm DEX giả mạo,lừa đảo.
 
-![Staking trên các Pool của Pancakeswap](/img/uploads/crypto-stake-3.png)
+![](/img/uploads/crypto-stake-3.png "Staking trên các Pool của Pancakeswap")
 
 ***3 Stake trên một Sàn Cex ( Centralized Exchange) sàn giao dịch tập trung với coin/token.***
 
@@ -55,7 +55,7 @@ Hình thức này hiểu đơn giản là những sàn ( Binance , Coinbase,  K
 
 *Rủi ro*: Rủi ro thấp nhất , an  toàn hơn so với 2 cách trên.
 
-![Staking trên sàn Binance cùng mã token Cake như APR thấp hơn rất nhiều](/img/uploads/crypto-stake-4.png)
+![](/img/uploads/crypto-stake-4.png "Staking trên sàn Binance cùng mã token Cake như APR thấp hơn rất nhiều")
 
 Như vậy đối với một holder,một nhà đầu tư dài hạn staking là một hình thức gia tăng số coin/token rất cần thiết cho chiến lược đầu tư.Theo chiều dài thời gian số coin/token nắm giữ tăng tưởng + lãi suất staking được trả  tăng trưởng , người đầu tư đã tối đa hóa lợi nhuận thay vì chỉ hold tài sản trong một thời gian dài mà không hành động gì cả.
 
