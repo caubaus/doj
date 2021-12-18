@@ -15,7 +15,7 @@ date: 2021-12-18T04:22:15.443Z
 
 *Nguồn BlockGreeks.*
 
-POS đã thay thế cho POW lỗi thời và tiêu tốn quá nhiều năng lượng dựa trên sưc mạnh xử lý số học của máy tính, thay vào đó người tham gia sẽ “góp” (stake) vào mạng lưới. POS khuyến khích holder thực  hiện stake số coin của họ.Mạng lưới sẽ được khỏe mạnh, các giao dịch được xác nhận nhanh chóng,người stake được hưởng phần phí giao dịch của họ.
+POS đã thay thế cho POW lỗi thời và tiêu tốn quá nhiều năng lượng dựa trên sưc mạnh xử lý số học của máy tính, thay vào đó người tham gia sẽ “góp”(stake) vào mạng lưới. POS khuyến khích holder thực  hiện stake số coin của họ.Mạng lưới sẽ được khỏe mạnh, các giao dịch được xác nhận nhanh chóng,người stake được hưởng phần phí giao dịch của họ.
 
 Vậy ace có thể hiểu đơn giản Stake là “góp” số coin của mình  vào mạng lưới để nhận phần thưởng.
 
