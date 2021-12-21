@@ -9,16 +9,19 @@ date: 2021-12-21T01:58:23.475Z
 ---
 ##### Khái Niệm
 
-* Iron Condor (IC) cũng là cách đánh nhắm vào dự đoán về mức biến động của cổ phiếu (còn gọi là Implied Volatility). Iron Condor cũng có 2 kiểu trade: Long IC & Short IC. 
+Iron Condor (IC) cũng là cách đánh nhắm vào dự đoán về mức biến động của cổ phiếu (còn gọi là Implied Volatility). Iron Condor cũng có 2 kiểu trade: Long IC & Short IC. 
 
-  > Long IC dùng khi dự đoán cổ phiếu sẽ có biến động mạnh (lên hoặc xuống).
-  > Short IC dùng khi dự đoán cổ phiếu (hiện đang dao động mạnh) sẽ sớm “sóng yên biển lặng”. 
-* Bài viết này tập trung vào Long I.
-* Nhìn vào đồ thị lợi nhuận của Long IC cho thấy: 
+> Long IC dùng khi dự đoán cổ phiếu sẽ có biến động mạnh (lên hoặc xuống).
+> Short IC dùng khi dự đoán cổ phiếu (hiện đang dao động mạnh) sẽ sớm “sóng yên biển lặng”. 
 
-  > Trade sẽ lời (phần màu xanh) nếu cổ phiếu dao động đủ mạnh về 1 hướng nào đó (up or down), vượt ra khỏi vùng màu đỏ như hình. 
-  > Trade sẽ lỗ nếu cổ phiếu đứng yên hoặc dao động không đủ mạnh để thoát ra khỏi phạm vi (màu đỏ). Nhưng phần lỗ là có kiểm soát.
-* Cách thiết kế Long IC như sau, bạn chọn Expiration Date phù hợp (khoảng thời gian bạn nghĩ sẽ có biến động) rồi tiến hành:
+Bài viết này tập trung vào Long I.
+
+Nhìn vào đồ thị lợi nhuận của Long IC cho thấy: 
+
+> Trade sẽ lời (phần màu xanh) nếu cổ phiếu dao động đủ mạnh về 1 hướng nào đó (up or down), vượt ra khỏi vùng màu đỏ như hình. 
+> Trade sẽ lỗ nếu cổ phiếu đứng yên hoặc dao động không đủ mạnh để thoát ra khỏi phạm vi (màu đỏ). Nhưng phần lỗ là có kiểm soát.
+
+Cách thiết kế Long IC như sau, bạn chọn Expiration Date phù hợp (khoảng thời gian bạn nghĩ sẽ có biến động) rồi tiến hành:
 
 > Buy 1 Call OTM (Near ATM)
 > Sell 1 Call OTM (Higher)
@@ -27,7 +30,7 @@ date: 2021-12-21T01:58:23.475Z
 
 ##### Ví Dụ
 
-* \#BKKT đang có giá $9, nếu phỏng đoán trong tuần sau #BKKT sẽ dao động (lên hoặc xuống), bạn chọn ngày đáo hạn là Dec 31, và thiết kế Long IC như sau:
+Cổ phiếu #BKKT đang có giá $9, nếu phỏng đoán trong tuần sau #BKKT sẽ dao động (lên hoặc xuống), bạn chọn ngày đáo hạn là Dec 31, và thiết kế Long IC như sau:
 
 > Buy 1 Call OTM (Near ATM), Strike = 10
 > Sell 1 Call OTM (Higher), Strike = 11
@@ -36,7 +39,7 @@ date: 2021-12-21T01:58:23.475Z
 
 ![Long IC](/img/uploads/screen-shot-2021-12-20-at-5.03.45-pm.png "Long IC")
 
-* Kết quả:
+Kết quả:
 
 > Tổng vốn bỏ ra là $45 (cũng là số tiền lỗ tối đa). Cắt lỗ nếu Loss = 50%-70%, nghĩa là nếu chỉ còn 1-2 ngày nữa là tới Dec 31st mà #BKKT vẫn lưng chừng xấp xỉ $9 thì cắt không thương tiếc.
 >
@@ -50,5 +53,6 @@ date: 2021-12-21T01:58:23.475Z
 
 ##### Kết Luận
 
-* Trade như thế này được cho là an toàn và phù hợp với điều kiện thị trường hiện tại. Nếu không biết thị trường sẽ tăng hay giảm nhưng biết là sẽ có ‘biến’ thì Long IC là một cách kiếm tiền cà phê nhẹ nhàng.
-* Nếu bạn có nhiều vốn hơn thì có thể áp dụng tương tự với những cổ phiếu mắc hơn và dễ biến động hơn như: #TSLA, #FB, #NVDA.
+Trade như thế này được cho là an toàn và phù hợp với điều kiện thị trường hiện tại. Nếu không biết thị trường sẽ tăng hay giảm nhưng biết là sẽ có ‘biến’ thì Long IC là một cách kiếm tiền cà phê nhẹ nhàng.
+
+Nếu bạn có nhiều vốn hơn thì có thể áp dụng tương tự với những cổ phiếu mắc hơn và dễ biến động hơn như: #TSLA, #FB, #NVDA.
