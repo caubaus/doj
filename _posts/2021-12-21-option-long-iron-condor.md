@@ -14,7 +14,7 @@ Iron Condor (IC) cũng là cách đánh nhắm vào dự đoán về mức biế
 - Long IC dùng khi dự đoán cổ phiếu sẽ có biến động mạnh (lên hoặc xuống).
 - Short IC dùng khi dự đoán cổ phiếu (hiện đang dao động mạnh) sẽ sớm “sóng yên biển lặng”. 
 
-Bài viết này tập trung vào Long I.
+Bài viết này tập trung vào Long IC.
 
 Nhìn vào đồ thị lợi nhuận của Long IC cho thấy: 
 
