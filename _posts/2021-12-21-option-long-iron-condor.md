@@ -7,7 +7,6 @@ author: A3
 background: /img/uploads/screen-shot-2021-12-20-at-5.03.45-pm.png
 date: 2021-12-21T01:58:23.475Z
 ---
-
 ##### Khái Niệm
 
 * Iron Condor (IC) cũng là cách đánh nhắm vào dự đoán về mức biến động của cổ phiếu (còn gọi là Implied Volatility). Iron Condor cũng có 2 kiểu trade: Long IC & Short IC. 
@@ -31,7 +30,7 @@ date: 2021-12-21T01:58:23.475Z
 * \#BKKT đang có giá $9, nếu phỏng đoán trong tuần sau #BKKT sẽ dao động (lên hoặc xuống), bạn chọn ngày đáo hạn là Dec 31, và thiết kế Long IC như sau:
 
 > Buy 1 Call OTM (Near ATM), Strike = 10
-> Sell 1 Call OTM (Higher), Strike = 9
+> Sell 1 Call OTM (Higher), Strike = 11
 > Buy 1 Put OTM (Near ATM), Strike = 8
 > Sell 1 Put OTM (Lower), Strike = 7
 
