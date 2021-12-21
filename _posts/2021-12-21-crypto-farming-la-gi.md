@@ -25,7 +25,7 @@ Ví dụ ace có 10 BNB ace có 2 lựa chọn,1 là đầu tư vào **farming*
 
 ***1 Lựa chọn farming:***
 
-Ở một nhóm lựa chọn farming sẽ yêu cầu 2 loại tài sản có trọng lượng bằng nhau với tỉ lệ 1:1
+Ở lựa chọn farming sẽ yêu cầu 2 loại tài sản có trọng lượng bằng nhau với tỉ lệ 1:1
 
 Ví dụ cặp farm: BNB-USDT thời điểm này 1BNB=$400,10BNB=$4000,ace cần thêm 4000 USDT nữa để cân bằng tỉ lệ 1:1(quy định này bất biến trong các nhóm thanh khoản) khi tham gia farming.
 
