@@ -15,7 +15,7 @@ Farming là phương pháp khuyến khích cung cấp thanh khoảng từ nhữn
 
 *Ưu điểm*:Nếu so sánh với Lending/Staking thì Farming có lợi nhuận cao nhất vài trăm % đến 1000%.
 
-*Rủi ro*:DEX bị tấn công,ví của ace bị hack,Tổn thất vĩnh viễn cao hơn phần thưởng được trả( token thưởng rớt giá).
+*Rủi ro*:DEX bị tấn công,ví của ace bị hack,Tổn thất vĩnh viễn cao hơn phần thưởng được trả(token thưởng rớt giá).
 
 ![](/img/uploads/crypto-farming-00.png)
 
