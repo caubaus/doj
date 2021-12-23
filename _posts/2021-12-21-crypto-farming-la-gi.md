@@ -11,7 +11,7 @@ date: 2021-12-21T05:57:47.793Z
 
 ***Farming trong Crypto là gì?***
 
-Farming là phương pháp khuyến khích cung cấp thanh khoảng từ những người dùng với loại tài sản crypto  nào đó thường là một cặp,trong một khoảng thời gian nào đó trên một sàn giao dịch phi tập trung (DEX).Phần thưởng sẽ là token quản trị của DEX đó,phần lợi nhuận này đến từ việc DEX chia sẻ phí giao dịch,lợi nhuận của mình cho những người tham gia cung cấp.
+Farming là phương pháp khuyến khích cung cấp thanh khoản từ những người dùng với loại tài sản crypto  nào đó thường là một cặp,trong một khoản thời gian nào đó trên một sàn giao dịch phi tập trung (DEX).Phần thưởng sẽ là token quản trị của DEX đó,phần lợi nhuận này đến từ việc DEX chia sẻ phí giao dịch,lợi nhuận của mình cho những người tham gia cung cấp.
 
 *Ưu điểm*:Nếu so sánh với Lending/Staking thì Farming có lợi nhuận cao nhất vài trăm % đến 1000%.
 
