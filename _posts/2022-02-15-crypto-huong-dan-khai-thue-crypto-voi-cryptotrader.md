@@ -29,7 +29,7 @@ Nếu ace có số lượng Trans trên 25 thì nên chọn Cryptotrader sẽ c�
 
 ![](/img/uploads/crypto_tax_2.png)
 
-Do phần lớn các ace đều nằm trong khoảng dưới 100 Trans nên Team sẽ hướng dẫn ace sử dụng Cryptotrader.tax, anh chị vào link này để đăng ký sẵn tiện ủng hộ Team nhé: []([http://cryptotrader.tax?fpr=anhba](http://cryptotrader.tax/?fpr=anhba&fbclid=IwAR0AbV5iu1HVFOSmSpbXCEJoi_TH4z4nKrcBmeil4lomZlH44Gq95NHh5Uk))http://cryptotrader.tax?fpr=anhba
+Do phần lớn các ace đều nằm trong khoảng dưới 100 Trans nên Team sẽ hướng dẫn ace sử dụng Cryptotrader.tax, anh chị vào link này để đăng ký sẵn tiện ủng hộ Team nhé: []([http://cryptotrader.tax?fpr=anhba](http://cryptotrader.tax/?fpr=anhba&fbclid=IwAR0AbV5iu1HVFOSmSpbXCEJoi_TH4z4nKrcBmeil4lomZlH44Gq95NHh5Uk))<http://cryptotrader.tax?fpr=anhba>
 
 Lưu ý:Ace đăng ký nên sử dụng cùng email với email đăng ký với các CEX, một số sàn yêu cầu cùng email để đồng bộ.
 
