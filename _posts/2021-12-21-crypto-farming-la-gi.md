@@ -31,7 +31,7 @@ Ví dụ cặp farm: BNB-USDT thời điểm này 1BNB=$400,10BNB=$4000,ace c�
 
 Ace sẽ có :10BNB-4000USDT trong nhóm thanh khoản đó với tổng giá trị là $8000,Số tài sản ace bỏ vào sẽ chiếm tỉ lệ % nào đó trên tổng pool thanh khoản.
 
-Và thuật toán trong nhóm thanh khoảng đó sẽ luôn duy trì  ở tỉ lệ 1:1 cân bằng như trên.
+Và thuật toán trong nhóm thanh khoản đó sẽ luôn duy trì  ở tỉ lệ 1:1 cân bằng như trên.
 
 Giả sử  trường hợp giá BNB tăng 20% trên thị trường,nhưng ở trên DEX của ace vẫn chưa biến động thì vẫn chưa có gì xảy ra,nhưng sẽ có những người lấy mua BNB ở DEX đó đem lên sàn CEX bán lại,lúc này sự thay đổi đã có,lượng BNB trong DEX sẽ ít đi,lượng USDT nhiều hơn.
 
