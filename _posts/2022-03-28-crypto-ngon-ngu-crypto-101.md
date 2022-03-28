@@ -15,6 +15,8 @@ Một số từ vựng,thuật ngữ thường được sử dụng trong crypto
 
 ●Fiat: các loại tiền trong hệ sinh thái tài chính truyền thống (tiền giấy) như USD, đồng Euro. ●Digital Currency: Tiền tệ kỹ thuật số, một thuật ngữ khác cho hàng hóa kỹ thuật số. 
 
+
+
 ![](/img/uploads/crypto-lan-2.jpg)
 
 ●Bitcoin: Tiền điện tử đầu tiên. Nó được tạo ra vào năm 2008 bởi một cá nhân hoặc một nhóm cá nhân hoạt động dưới tên Satoshi Nakamoto. Nó được thiết kế để trở thành một hệ thống tiền tệ điện tử phi tập trung peer-to-peer (trực tiếp giữa người với người). 
@@ -128,8 +130,6 @@ Một số từ vựng,thuật ngữ thường được sử dụng trong crypto
 ●Proof-of-work: PoW bằng chứng công việc, là một cơ chế đồng thuận khác sử dụng mạng lưới các máy tính được gọi là thợ đào để xác minh các giao dịch để đổi lấy block reward. Bất kỳ ai cũng có thể trở thành thợ đào, cạnh tranh để tạo ra các khối mới bằng cách sử dụng tài nguyên máy tính để giải một câu đố mật mã được gọi là hàm băm. Người đầu tiên làm điều này kiếm được quyền nối khối mới của họ vào chuỗi khối. 
 
 ![](/img/uploads/crypto-lan-8.jpg)
-
-
 
 ●Mining: Khai thác là quá trình đóng góp tài nguyên máy tính vào mạng blockchain để tạo ra các block mới. Đổi lại, những người khai thác nhận được block reward. 
 
