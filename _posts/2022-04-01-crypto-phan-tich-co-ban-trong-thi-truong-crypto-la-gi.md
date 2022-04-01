@@ -11,15 +11,13 @@ date: 2022-04-01T05:20:01.959Z
 
 Trong thị trường đầu tư crypto thông thường chúng ta sẽ thấy các nhà đầu tư sử dụng các phương pháp phân tích để dự đoán mức giá, thời điểm giao dịch, xu hướng thị trường, đối tượng đầu tư… Các phương pháp này tạo ra độ tin cậy nhất định những điều sẽ xảy ra tiếp theo của thị trường. Có hai trường phái phổ thông nhất mà chúng ta có thể thấy là phân tích kỹ thuật và phân tích cơ bản :
 
-Phân tích kỹ thuật(PTKT): Là phương pháp nghiên cứu dựa theo các chỉ báo, biểu đồ đường giá trong lịch sử để dự đoán mức giá trong tương lai. PTKT rất quan trọng trong giao dịch, phần lớn dựa theo thói quen, tâm lý con người.
+**Phân tích kỹ thuật(PTKT)**: Là phương pháp nghiên cứu dựa theo các chỉ báo, biểu đồ đường giá trong lịch sử để dự đoán mức giá trong tương lai. PTKT rất quan trọng trong giao dịch, phần lớn dựa theo thói quen, tâm lý con người.
 
-Phân tích cơ bản(PTCB): Là phương pháp nghiên cứu, xem xét các khía cạnh của tài sản, đối tượng đầu tư để đánh giá về giá trị của nó.
+**Phân tích cơ bản(PTCB):** Là phương pháp nghiên cứu, xem xét các khía cạnh của tài sản, đối tượng đầu tư để đánh giá về giá trị của nó.
 
 ![](/img/uploads/crypto-ptcb-2.jpg)
 
-Một ví dụ vui về hai phương pháp phân tích này trong thị trường crypto này PTKT là vũ khí của Trader, PTCB là vũ khí của Holder ngoài vũ khí ra chiến binh cũng cần có giáp thật chắc với kiến thức về tài chính, quản lý vốn và tâm lý đầu tư….
-
-
+Một ví dụ vui về hai phương pháp phân tích này trong thị trường crypto này PTKT là vũ khí của Trader, PTCB là vũ khí của Holder. Ngoài vũ khí ra, chiến binh cũng cần có giáp thật chắc với kiến thức về tài chính, quản lý vốn và tâm lý đầu tư….
 
 Trong bài viết này Mlem Team sẽ giới thiệu cho ace những kiến thức cơ bản về PTCB trong crypto:
 
@@ -27,9 +25,7 @@ Khi ace có đánh giá về một dự án, một đồng crypto giá trị hi�
 
 Đi vào sâu hơn PTCB sẽ giúp ace có khả năng đánh giá được tiềm năng trong tương lai của các dự án crypto.
 
-*Khái quát một số điểm cần đánh giá, thực hiện phân tích cơ bản trong crypto:*
-
-
+Khái quát một số điểm cần đánh giá, thực hiện phân tích cơ bản trong crypto:
 
 **1 Thị trường  mục tiêu:**
 
@@ -37,7 +33,7 @@ Mọi dự án crypto đều có thị trường mục tiêu nói nôm na dễ h
 
 Đôi khi thị trường mục tiêu đã quá bão hòa, đầu tư sẽ không hiệu quả.
 
-**2 Mức độ áp dụng thực tế,pháp lý của dự án:**
+**2 Mức độ áp dụng thực tế, pháp lý của dự án:**
 
 Một số dự án có ý tưởng đột phá, rất hay nhưng khi suy nghĩ về áp dụng thực tế thì không thể áp dụng hoặc sẽ bị vướng pháp lý, điều này sẽ ảnh hưởng nghiêm trọng về giá trong tương lai.
 
@@ -81,12 +77,12 @@ Ví dụ: một số dự án lừa đảo đưa thông tin có đối tác là 
 
 **10 WhitePaper:**
 
-WhitePaper thường phác thảo chi tiết, tài liệu kỹ thuật về dự án.Nói nôm na Whitepaper giống như hướng dẫn sử dụng cần đọc kỹ trước khi sử dụng
+WhitePaper thường phác thảo chi tiết, tài liệu kỹ thuật về dự án.Nói nôm na Whitepaper giống như hướng dẫn sử dụng nhà sản xuất cho người tiêu dùng cần đọc kỹ trước khi sử dụng.
 
 **11 Lịch sử giá và vốn hóa thị trường:**\
 Thông tin về mức giá trong lịch sử so sánh với mức giá hiện tại, nếu giữ mức tăng trưởng đều đặn trong thời gian dài là tiêu chí cho an toàn đầu tư.
 
-Mức giá hiện tại so sánh với cung lưu thông và tổng cung có thể dự đoán được mức tăng trưởng của dự án.Vốn hóa cao khả năng tăng trưởng thấp, vốn hóa thấp khả năng tăng trưởng cao.
+Mức giá hiện tại so sánh với cung lưu thông và tổng cung có thể dự đoán được mức tăng trưởng của dự án. Vốn hóa cao khả năng tăng trưởng thấp, vốn hóa thấp khả năng tăng trưởng cao.
 
 Ví dụ Eth với vốn hóa thị trường khá lớn trong thời gian 1-2 năm tới có thể tăng trưởng ít nhất 50% khá an toàn, một số dự án mới có khả năng tăng trưởng đến 300-700% trong 3 tháng nhưng rủi ro sẽ cao hơn.
 
@@ -100,10 +96,6 @@ Những điểm trên không phải là đầy đủ nhất nhưng là cơ bản
 
 Cách thức để tìm kiếm thông tin PTCB mời ace xem lại bài viết : <https://streetone.org/2021/11/09/crypto-cach-tim-hieu-mot-dong-coin-hoac-token-cho-nguoi-moi.html>
 
-
-
 *Huy Nguyen Mlem Team*
-
-
 
 <!--EndFragment-->
