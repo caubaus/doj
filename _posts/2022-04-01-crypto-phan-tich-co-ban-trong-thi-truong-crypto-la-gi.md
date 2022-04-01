@@ -21,7 +21,7 @@ Một ví dụ vui về hai phương pháp phân tích này trong thị trườn
 
 Trong bài viết này Mlem Team sẽ giới thiệu cho ace những kiến thức cơ bản về PTCB trong crypto:
 
-Khi ace có đánh giá về một dự án, một đồng crypto giá trị hiện nay của nó đang thấp hơn so với khả năng tăng trưởng trong tương lai, nhu cầu sử dụng, ủng hộ của cộng đồng với dự án đó sẽ tăng nên bạn quyết định đầu tư. Đó là khái niệm đơn giản về PTCB trong crypto.
+Khi ace có đánh giá về một dự án, một đồng crypto giá trị hiện nay của nó đang thấp hơn so với khả năng tăng trưởng trong tương lai, nhu cầu sử dụng, ủng hộ của cộng đồng với dự án đó sẽ tăng nên ace quyết định đầu tư. Đó là khái niệm đơn giản về PTCB trong crypto.
 
 Đi vào sâu hơn PTCB sẽ giúp ace có khả năng đánh giá được tiềm năng trong tương lai của các dự án crypto.
 
