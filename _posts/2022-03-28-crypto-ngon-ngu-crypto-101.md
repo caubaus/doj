@@ -1,7 +1,7 @@
 ---
 layout: post
 type: crypto
-title: Ngôn ngữ Crypto 101
+title: Thuật ngữ Crypto 101
 subtitle: Crypto 101 Glossary
 author: Khang Đỗ
 background: /img/uploads/crypto-lan-1.png
