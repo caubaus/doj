@@ -13,9 +13,9 @@ Một số từ vựng,thuật ngữ thường được sử dụng trong crypto
 
 ●Cryptography: Mật mã học đề cập đến khoa học giữ thông tin an toàn và bảo mật, và được sử dụng trong nhiều lĩnh vực trong máy tính ngày nay. 
 
-●Fiat: các loại tiền trong hệ sinh thái tài chính truyền thống (tiền giấy) như USD, đồng Euro. ●Digital Currency: Tiền tệ kỹ thuật số, một thuật ngữ khác cho hàng hóa kỹ thuật số. 
+●Fiat: các loại tiền trong hệ sinh thái tài chính truyền thống (tiền giấy) như USD, đồng Euro. 
 
-
+●Digital Currency: Tiền tệ kỹ thuật số, một thuật ngữ khác cho hàng hóa kỹ thuật số. 
 
 ![](/img/uploads/crypto-lan-2.jpg)
 
