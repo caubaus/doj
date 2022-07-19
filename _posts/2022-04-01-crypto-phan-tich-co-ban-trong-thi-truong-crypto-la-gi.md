@@ -4,7 +4,8 @@ type: crypto
 title: Phân tích cơ bản trong thị trường crypto là gì?
 subtitle: "What is Crypto Fundamental Analysis? "
 author: Huy Nguyễn
-background: /img/uploads/crypto-ptcb-1.jpg
+categories: [ Jekyll, tutorial ]
+image: img/uploads/crypto-ptcb-1.jpg
 date: 2022-04-01T05:20:01.959Z
 ---
 <!--StartFragment-->
