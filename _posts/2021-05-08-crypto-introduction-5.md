@@ -3,7 +3,9 @@ layout: post
 type: crypto
 title: "Phi Tập Trung Hoá"
 subtitle: "Decentralization - Crypto Intro 5"
-background: '/img/posts/crypto-introduction-5/bg-decentralization.png'
+author: a3
+categories: [ crypto ]
+image: 'img/posts/crypto-introduction-5/bg-decentralization.png'
 ---
 
 #### Khái quát

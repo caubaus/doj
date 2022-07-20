@@ -3,8 +3,10 @@ layout: post
 type: stock
 title: Thị trường hàng hoá
 subtitle: Commodity Market
-author: A3
-background: /img/uploads/commodities-trading.png
+author: a3
+categories: [ stock ]
+tags: [featured]
+image: img/uploads/commodities-trading.png
 date: 2022-01-25T01:45:30.527Z
 ---
 Tuy không thuộc về phạm vi của chứng khoán nhưng thị trường hàng hoá cũng là một trong những lĩnh vực nhiều nhà đầu tư quan tâm nhất là những quỹ đầu tư. Họ quan tâm thị trường hàng hoá vì xem nó như là một trong những hạng mục thay thế trong những hoàn cảnh thị trường cổ phiếu bấp bênh hoặc khi tiền giấy bị lạm phát.

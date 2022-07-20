@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: "Chỉ Số Beta"
 subtitle: "Beta - Stock Intro 6"
-background: '/img/posts/stock-introduction-06/bg-stock-introduction-06.png'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-introduction-06/bg-stock-introduction-06.png'
 ---
 
 #### Khái quát

@@ -3,8 +3,9 @@ layout: post
 type: option
 title: "Long Call Option"
 subtitle: "Option Basics 1"
-author: Trinh Nguyen Ba
-background: '/img/posts/option-basic-1/option-basic-1.png'
+author: a3
+categories: [ option ]
+image: 'img/posts/option-basic-1/option-basic-1.png'
 ---
 
 #### Khái quát

@@ -4,8 +4,7 @@ type: crypto
 title: Thuật ngữ Defi
 subtitle: Defi 101 Glossary
 author: Khang Đỗ
-categories: [ Jekyll, tutorial ]
-tags: [sticky]
+categories: [ crypto ]
 image: img/uploads/crypto-defi-1.jpg
 date: 2022-04-08T04:29:12.301Z
 ---

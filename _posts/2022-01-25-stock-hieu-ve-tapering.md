@@ -3,8 +3,9 @@ layout: post
 type: stock
 title: Hiểu về Tapering
 subtitle: Stock Intro 10
-author: A3
-background: /img/uploads/271849209_10217350343388930_6181407156706400757_n.jpeg
+author: a3
+categories: [ stock ]
+image: img/uploads/271849209_10217350343388930_6181407156706400757_n.jpeg
 date: 2022-01-25T00:21:20.645Z
 ---
 

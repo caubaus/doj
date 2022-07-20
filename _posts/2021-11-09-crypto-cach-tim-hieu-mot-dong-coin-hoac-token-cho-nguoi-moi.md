@@ -3,8 +3,9 @@ layout: post
 type: crypto
 title: Cách tìm hiểu một đồng coin hoặc token cho người mới
 subtitle: How to research a coin or token for beginners
-author: Huy Nguyen
-background: /img/uploads/crypto-how-to-research-coin-beginners.jpg
+author: huynguyen
+categories: [ crypto ]
+image: img/uploads/crypto-how-to-research-coin-beginners.jpg
 date: 2021-11-09T01:54:36.931Z
 ---
 ## Khái quát
@@ -98,6 +99,6 @@ Dự Án đã bán ICO , IDO hay IEO bao nhiêu % ? Hình thức chào bán như
 
 Tất cả những điều  trên hi vọng ace đã có thêm nhiều thông tin của một dự án nào đó, thêm nhiều kiến thức và niềm tin với các dự án mà ace lựa chọn .
 
-Huy Nguyen S1J Team
+huynguyen S1J Team
 
 <!--EndFragment-->

@@ -3,8 +3,9 @@ layout: post
 type: option
 title: Long Straddle
 subtitle: Long Straddle (Long Volatility)
-author: A3
-background: /img/uploads/246891547_10217000709288296_4484276565697201193_n.jpeg
+author: a3
+categories: [ option ]
+image: img/uploads/246891547_10217000709288296_4484276565697201193_n.jpeg
 date: 2021-12-10T21:28:14.534Z
 ---
 ##### Khái Niệm

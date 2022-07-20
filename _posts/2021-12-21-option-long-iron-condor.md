@@ -3,8 +3,9 @@ layout: post
 type: option
 title: Long Iron Condor
 subtitle: Long Volatility
-author: A3
-background: /img/uploads/screen-shot-2021-12-20-at-5.03.45-pm.png
+author: a3
+categories: [ option ]
+image: img/uploads/screen-shot-2021-12-20-at-5.03.45-pm.png
 date: 2021-12-21T01:58:23.475Z
 ---
 ##### Khái Niệm

@@ -3,9 +3,8 @@ layout: post
 type: crypto
 title: "Tiền Điện Tử là gì?"
 subtitle: "Cryptocurrency - Crypto Intro 1"
-author: Trinh Nguyen Ba
-categories: [ Jekyll, tutorial ]
-tags: [sticky]
+author: a3
+categories: [ crypto ]
 image: /img/posts/crypto-introduction-1/bg-cryptocurrency.png
 date: 2021-05-03T01:06:33.454Z
 ---

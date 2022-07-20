@@ -3,7 +3,9 @@ layout: post
 type: crypto
 title: "Ký Gửi Tiền Số"
 subtitle: "Crypto Staking - Crypto Intro 9"
-background: '/img/posts/crypto-introduction-9/bg-staking.png'
+author: a3
+categories: [ crypto ]
+image: 'img/posts/crypto-introduction-9/bg-staking.png'
 ---
 
 #### GIới thiệu

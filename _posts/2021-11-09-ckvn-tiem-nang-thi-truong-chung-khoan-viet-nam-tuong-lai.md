@@ -4,7 +4,8 @@ type: ckvn
 title: Tiềm Năng Thị Trường Chứng Khoán Việt Nam Tương Lai
 subtitle: Potential of Vietnam Stock Market
 author: Chi Nguyen
-background: /img/uploads/quyn8640-1620293834-7524-1620293925.jpeg
+categories: [ stockvn ]
+image: img/uploads/quyn8640-1620293834-7524-1620293925.jpeg
 date: 2021-11-09T04:40:02.345Z
 ---
 #### Bối cảnh

@@ -3,7 +3,9 @@ layout: post
 type: crypto
 title: "Đồng #HT và sàn Houbi"
 subtitle: "Crypto Exchange Projects - Houbi"
-background: '/img/posts/crypto-coin-ht/crypto-ht-bg.png'
+author: a3
+categories: [ crypto ]
+image: 'img/posts/crypto-coin-ht/crypto-ht-bg.png'
 ---
 
 #### Khái quát

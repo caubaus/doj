@@ -3,7 +3,9 @@ layout: post
 type: crypto
 title: "Khái Niệm về DeFi"
 subtitle: "DeFi - Crypto Intro 8"
-background: '/img/posts/crypto-introduction-8/bg-defi.png'
+author: a3
+categories: [ crypto ]
+image: 'img/posts/crypto-introduction-8/bg-defi.png'
 ---
 
 #### Khái quát

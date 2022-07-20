@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: "Những mã cổ phiếu cho Rổ Đầu Tư tối ưu"
 subtitle: "Dividend Optimal Portfolio"
-background: '/img/posts/stock-dividend-optimal-portfolio/stock-dividend-optimal-portfolio.png'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-dividend-optimal-portfolio/stock-dividend-optimal-portfolio.png'
 ---
 
 #### Tại sao phải đầu tư an toàn

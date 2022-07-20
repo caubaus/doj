@@ -4,7 +4,9 @@ type: crypto
 title: Thuật ngữ Crypto 101
 subtitle: Crypto 101 Glossary
 author: Khang Đỗ
-background: /img/uploads/crypto-lan-1.png
+categories: [ crypto ]
+tags: [ sticky ]
+image: img/uploads/crypto-lan-1.png
 date: 2022-03-27T22:35:54.091Z
 ---
 <!--StartFragment-->

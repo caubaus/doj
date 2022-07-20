@@ -3,8 +3,9 @@ layout: post
 type: news
 title: "Tất tần tật về Bitcoin ETF"
 subtitle: "Understanding Bitcoin ETF"
-author: Trinh Nguyen Ba
-background: '/img/posts/news-2021-10-15/bitcoin-etf.png'
+author: a3
+categories: [ news, stock, crypto ]
+image: 'img/posts/news-2021-10-15/bitcoin-etf.png'
 ---
 
 Sau khi có tin SEC sẽ ‘bật đèn xanh’ cho Bitcoin Future ETF ra đời, và sàn NASDAQ đồng ý cho quỹ Valkyrie được phát hành sản phẩm ETF Bitcoin đầu tiên của họ, thì mình thấy có vài điểm nên làm rõ, để chắc chắn rằng tất cả chúng ta đều đang nhìn về cùng 1 bức tranh

@@ -4,7 +4,7 @@ type: crypto
 title: Phân tích cơ bản trong thị trường crypto là gì?
 subtitle: "What is Crypto Fundamental Analysis? "
 author: Huy Nguyễn
-categories: [ Jekyll, tutorial ]
+categories: [ crypto ]
 image: img/uploads/crypto-ptcb-1.jpg
 date: 2022-04-01T05:20:01.959Z
 ---
@@ -97,6 +97,6 @@ Những điểm trên không phải là đầy đủ nhất nhưng là cơ bản
 
 Cách thức để tìm kiếm thông tin PTCB mời ace xem lại bài viết : <https://streetone.org/2021/11/09/crypto-cach-tim-hieu-mot-dong-coin-hoac-token-cho-nguoi-moi.html>
 
-*Huy Nguyen Mlem Team*
+*huynguyen Mlem Team*
 
 <!--EndFragment-->

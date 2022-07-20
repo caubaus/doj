@@ -3,7 +3,9 @@ layout: post
 type: crypto
 title: "Đào Tiền Số"
 subtitle: "Crypto Mining - Crypto Intro 7"
-background: '/img/posts/crypto-introduction-7/bg-coinmining.png'
+author: a3
+categories: [ crypto ]
+image: 'img/posts/crypto-introduction-7/bg-coinmining.png'
 ---
 
 Về định nghĩa, chỉ có 3 cách để nhận được một đồng tiền điện tử: mua trên sàn (trading), trao đổi (swapping), và đào coin (mining).

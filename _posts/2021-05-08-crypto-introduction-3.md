@@ -3,7 +3,9 @@ layout: post
 type: crypto
 title: "Khái Niệm về Ethereum"
 subtitle: "Ethereum - Crypto Intro 3"
-background: '/img/posts/crypto-introduction-3/bg-ether.png'
+author: a3
+categories: [ crypto ]
+image: 'img/posts/crypto-introduction-3/bg-ether.png'
 ---
 
 #### Khái quát

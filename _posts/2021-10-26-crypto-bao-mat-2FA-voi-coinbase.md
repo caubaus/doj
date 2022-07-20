@@ -4,7 +4,8 @@ type: crypto
 title: "Bảo mật 2 lớp Google Authenticator - Coinbase"
 subtitle: "Crypto Security - 2FA"
 author: Trung Le
-background: '/img/posts/crypto-2FA/2FA_background.jpeg'
+categories: [ crypto ]
+image: 'img/posts/crypto-2FA/2FA_background.jpeg'
 ---
 
 ## Các bước để tạo thêm lớp bảo mật cho account Coinbase của bạn:

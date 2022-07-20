@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: "Khái Niệm SPAC"
 subtitle: "What is a SPAC - Stock Intro 8"
-background: '/img/posts/stock-introduction-08/spac.png'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-introduction-08/spac.png'
 ---
 
 #### Khái quát

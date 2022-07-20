@@ -3,8 +3,9 @@ layout: post
 type: news
 title: "Metaverse và tầm nhìn"
 subtitle: "Understanding Metaverse"
-author: Trinh Nguyen Ba
-background: '/img/posts/news-2021-11-02/metaverse.jpg'
+author: a3
+categories: [ news, crypto ]
+image: 'img/posts/news-2021-11-02/metaverse.jpg'
 ---
 
 #### Khái quát

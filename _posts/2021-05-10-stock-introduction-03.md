@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: 'Chỉ Số PE'
 subtitle: 'PE Ratio - Stock Intro 3'
-background: '/img/posts/stock-introduction-03/bg-stock-introduction-03.png'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-introduction-03/bg-stock-introduction-03.png'
 ---
 
 #### GIới thiệu

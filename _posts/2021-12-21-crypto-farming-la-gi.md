@@ -3,8 +3,9 @@ layout: post
 type: crypto
 title: Farming là gì?
 subtitle: What is Farming in Crypto
-author: Huy Nguyen
-background: /img/uploads/crypto-stake-n.jpg
+author: huynguyen
+categories: [ crypto ]
+image: img/uploads/crypto-stake-n.jpg
 date: 2021-12-21T05:57:47.793Z
 ---
 <!--StartFragment-->
@@ -64,6 +65,6 @@ Farming các cặp tiền ổn định.Tránh các cặp tiền rủi ro, biến
 
 Hi vọng với những khái niệm đơn giản trên ace đã hiểu hơn về hình thức farming này trong crypto , những cơ hội và rủi ro có thể đến trong quá trình tham gia.
 
-*Huy Nguyen S1J Team*
+*huynguyen S1J Team*
 
 <!--EndFragment-->
