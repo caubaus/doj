@@ -1,40 +1,65 @@
-title: Street One Journals
-email: streetone.org@gmail.com
-description: Market Explained
-author: Trinh Nguyen Ba
+# Site
+name: 'Street One Journals'
+description: 'Market Explained'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 url: "streetone.org"
-baseurl: "/"
+baseurl: ""
+email: 'streetone.org@gmail.com'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-# Social Profiles
-twitter_username: caubaus
-github_username:
-facebook_username: streetone.org
-instagram_username: caubaus
-linkedin_username:
+include: ["_pages"]
+permalink: /:title/
 
-# Add your google-analytics ID here to activate google analytics
-google_analytics: G-32GEYFLF81 # out your google-analytics code
-
-# Build settings
-markdown: kramdown
-paginate: 5
-paginate_path: "/posts/page:num/"
-plugins:
+# Plugins
+plugins: 
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-include-cache
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-seo-tag
+  
+authors:
+    a3:
+      name:           Trinh Nguyen Ba (A3)
+      site:           https://www.wowthemes.net
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      twitter:        https://twitter.com/MlemCrypto
 
-sass:
-  sass_dir: _sass
-  # load_paths:
-  #   - assets
-  #   - _sass
-  #   - node_modules
-  style: compressed
-# exclude:
-#   - bower_components
-#   - Gemfile
-#   - Gemfile.lock
-#   - LICENSE
-#   - README.md
+    huynguyen:
+      name:           Huy Nguyen
+      site:           https://www.wowthemes.net
+      avatar:         assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/MlemCrypto
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

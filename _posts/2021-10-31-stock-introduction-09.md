@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: "Warrant của công ty SPAC là gì?"
 subtitle: "What is Warrant - Stock Intro 9"
-background: '/img/posts/stock-introduction-09/bg-warrant.jpg'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-introduction-09/bg-warrant.jpg'
 ---
 
 #### Khái quát

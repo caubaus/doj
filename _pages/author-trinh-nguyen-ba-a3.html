@@ -1,0 +1,26 @@
+---
+title: "Trinh Nguyen Ba (A3)"
+layout: default
+permalink: "/author-trinh-nguyen-ba-a3.html"
+---
+<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">{{page.title}} <span class="small btn btn-outline-success btn-sm btn-round"><a href="{{ site.authors.a3.twitter }}">Follow</a></span></h2>
+                <p><a href="{{ site.authors.a3.site }}">{{ site.authors.a3.site }}</a></p>
+                <p class="excerpt">{{ site.authors.a3.bio }}</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="{{ site.authors.a3.name }}" src="{{site.baseurl}}/{{ site.authors.a3.avatar }}" class="rounded-circle" height="100" width="100">
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4>
+            {% assign posts = site.posts | where:"author","a3" %}
+            {% for post in posts %}
+            {% include main-loop-card.html %}
+            {% endfor %}
+    </div>
+</div>
+</div>

@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: "Lợi Suất Cổ Tức"
 subtitle: "Dividend Yield - Stock Intro 5"
-background: '/img/posts/stock-introduction-05/bg-stock-introduction-05.png'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-introduction-05/bg-stock-introduction-05.png'
 ---
 
 #### Khái quát

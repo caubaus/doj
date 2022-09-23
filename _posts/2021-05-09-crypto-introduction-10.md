@@ -3,7 +3,9 @@ layout: post
 type: crypto
 title: "Cho Vay Tiền Số"
 subtitle: "Crypto Lending - Crypto Intro 10"
-background: '/img/posts/crypto-introduction-10/bg-lending.png'
+author: a3
+categories: [ crypto ]
+image: 'img/posts/crypto-introduction-10/bg-lending.png'
 ---
 
 #### GIới thiệu

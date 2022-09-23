@@ -1,0 +1,40 @@
+title: Street One Journals
+email: streetone.org@gmail.com
+description: Market Explained
+author: Trinh Nguyen Ba
+url: "streetone.org"
+baseurl: "/"
+
+# Social Profiles
+twitter_username: caubaus
+github_username:
+facebook_username: streetone.org
+instagram_username: caubaus
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics: G-32GEYFLF81 # out your google-analytics code
+
+# Build settings
+markdown: kramdown
+paginate: 5
+paginate_path: "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+sass:
+  sass_dir: _sass
+  # load_paths:
+  #   - assets
+  #   - _sass
+  #   - node_modules
+  style: compressed
+# exclude:
+#   - bower_components
+#   - Gemfile
+#   - Gemfile.lock
+#   - LICENSE
+#   - README.md

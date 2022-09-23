@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: 'Định Giá Cổ Phiếu'
 subtitle: 'How to value a stock - Stock Intro 2'
-background: '/img/posts/stock-introduction-02/bg-stock-introduction-02.png'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-introduction-02/bg-stock-introduction-02.png'
 ---
 
 #### Giá trị cổ phiếu một công ty được ước định như thế nào?

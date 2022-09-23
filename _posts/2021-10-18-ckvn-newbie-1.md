@@ -3,8 +3,9 @@ layout: post
 type: ckvn
 title: "Tại sao cần học về đầu tư?"
 subtitle: "Chứng Khoán Việt Nam cho người mới bắt đầu"
-author: Trinh Nguyen Ba
-background: '/img/posts/ckvn-newbie-1/ckvn-newbie-1.png'
+author: a3
+categories: [ crypto ]
+image: 'img/posts/ckvn-newbie-1/ckvn-newbie-1.png'
 ---
 
 #### Đầu tư là gì?

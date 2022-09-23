@@ -3,8 +3,9 @@ layout: post
 type: crypto
 title: Hướng dẫn khai thuế crypto với Cryptotrader
 subtitle: Crypto Tax
-author: Huy Nguyen
-background: /img/uploads/back.jpg
+author: huynguyen
+categories: [ crypto ]
+image: img/uploads/back.jpg
 date: 2022-02-15T04:36:32.752Z
 ---
 <!--StartFragment-->

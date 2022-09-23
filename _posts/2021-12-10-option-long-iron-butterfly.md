@@ -3,8 +3,9 @@ layout: post
 type: option
 title: Long Iron Butterfly
 subtitle: Long Iron Butterfly (Long Volatility)
-author: A3
-background: /img/uploads/265561826_10217207429816180_1605570501288726014_n.jpeg
+author: a3
+categories: [ option ]
+image: img/uploads/265561826_10217207429816180_1605570501288726014_n.jpeg
 date: 2021-12-10T21:31:46.044Z
 ---
 ##### Khái Quát

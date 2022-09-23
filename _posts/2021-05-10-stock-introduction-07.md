@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: "Chỉ Số Alpha"
 subtitle: "Alpha - Stock Intro 7"
-background: '/img/posts/stock-introduction-07/bg-stock-introduction-07.png'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-introduction-07/bg-stock-introduction-07.png'
 ---
 
 #### Khái quát

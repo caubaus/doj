@@ -3,8 +3,9 @@ layout: post
 type: option
 title: Sell Secured Put
 subtitle: Short Put (Bullish Trade)
-author: A3
-background: /img/uploads/243480660_10216908453221952_3076735759542231685_n.jpeg
+author: a3
+categories: [ option ]
+image: img/uploads/243480660_10216908453221952_3076735759542231685_n.jpeg
 date: 2021-12-10T21:20:59.181Z
 ---
 ##### Khái Niệm

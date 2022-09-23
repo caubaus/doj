@@ -3,8 +3,9 @@ layout: post
 type: crypto
 title: "Hướng dẫn sử dụng ví SafePal để kết nối và giao dịch crypto với sàn Binance quốc tế"
 subtitle: "Crypto Wallet - Safepal x Binance"
-author: Huy Nguyen
-background: '/img/posts/crypto-safepal-giao-dich-binance/safepal_bg.jpg'
+author: huynguyen
+categories: [ crypto ]
+image: 'img/posts/crypto-safepal-giao-dich-binance/safepal_bg.jpg'
 ---
 
 ## Giới thiệu:
@@ -48,6 +49,6 @@ Phần Google Anthenticator  Ace cần bật lên và thực hiện thao tác b�
 ACE nào chưa biết cách sử dụng Google Authenticator có thể tham khảo thêm [TẠI ĐÂY](https://streetone.org/2021/10/26/crypto-bao-mat-2FA-voi-coinbase.html).
 Vậy là ace đã có thể chuyển crypto vào tài khoản liên kết với BNW này thông qua ví spot và bắt đầu giao dịch được rồi. 
 
-Huy Nguyen S1J Team
+huynguyen S1J Team
 
 

@@ -3,8 +3,9 @@ layout: post
 type: crypto
 title: DCA Phương pháp đầu tư thông minh và giảm tối thiểu rủi ro cho nhà đầu tư mới.
 subtitle: Dollar-Cost Averaging
-author: Huy Nguyen
-background: /img/uploads/crypto-dca-1.png
+author: huynguyen
+categories: [ crypto ]
+image: img/uploads/crypto-dca-1.png
 date: 2021-11-22T00:17:04.526Z
 ---
 # **DCA , Phương pháp đầu tư thông minh và giảm tối thiểu rủi ro cho nhà đầu tư.**
@@ -43,6 +44,6 @@ Như vậy ta có thể thấy những ưu điểm của cách thức đầu tư
 
 Hi vọng với phương thức đầu tư DCA này ace sẽ giảm thiểu được rủi ro , tăng lợi nhuận khi đầu tư trong thời gian dài một cách bền vững.
 
-*Huy Nguyen S1J Team*
+*huynguyen S1J Team*
 
 <!--EndFragment-->

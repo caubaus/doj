@@ -3,8 +3,9 @@ layout: post
 type: crypto
 title: Staking là gì?
 subtitle: What is  Staking in Crypto
-author: Huy Nguyen
-background: /img/uploads/crypto-stake-0.png
+author: huynguyen
+categories: [ crypto ]
+image: img/uploads/crypto-stake-0.png
 date: 2021-12-18T04:22:15.443Z
 ---
 <!--StartFragment-->
@@ -65,6 +66,6 @@ Hình thức này hiểu đơn giản là những sàn ( Binance , Coinbase,  K
 
 Như vậy đối với một holder,một nhà đầu tư dài hạn staking là một hình thức gia tăng số coin/token rất cần thiết cho chiến lược đầu tư.Theo chiều dài thời gian số coin/token nắm giữ tăng tưởng + lãi suất staking được trả  tăng trưởng,người đầu tư đã tối đa hóa lợi nhuận thay vì chỉ hold tài sản trong một thời gian dài mà không hành động gì cả.
 
-*Huy Nguyen S1J Team*
+*huynguyen S1J Team*
 
 <!--EndFragment-->

@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: "Thị Trường Chứng Khoán"
 subtitle: "Stock Market - Stock Intro 1"
-background: '/img/posts/stock-introduction-01/bg-stock-introduction-01.png'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-introduction-01/bg-stock-introduction-01.png'
 ---
 
 #### Khái quát

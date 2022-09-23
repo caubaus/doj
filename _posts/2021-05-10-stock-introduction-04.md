@@ -3,7 +3,9 @@ layout: post
 type: stock
 title: "Chỉ Số PB"
 subtitle: "PB Ratio - Stock Intro 4"
-background: '/img/posts/stock-introduction-04/bg-stock-introduction-04.png'
+author: a3
+categories: [ stock ]
+image: 'img/posts/stock-introduction-04/bg-stock-introduction-04.png'
 ---
 
 #### GIới thiệu
