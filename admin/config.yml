@@ -2,7 +2,7 @@ backend:
   name: github
   repo: caubaus/doj
   branch: master
-  site_domain: streetone.org
+  site_domain: mlempen.com
 
 media_folder: "img/uploads"
 
