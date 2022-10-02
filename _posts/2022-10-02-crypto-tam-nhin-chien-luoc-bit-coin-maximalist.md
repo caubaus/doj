@@ -15,7 +15,7 @@ Tầm nhìn chiến lược & Bit.coin Maximalist
 
 \- Lâu lâu cũng muốn [](<>)khẳng định lại với mọi người mình là một trong những Bitcoin Maximalists, trung thành tuyệt đối với Bitcoin, nếu xét về mục tiêu dài hạn.
 
-\- Mình có thể có góc nhìn lúc Bearish lúc Bullish khác nhau, nhưng khi nói về mục tiêu dài hạn (supercycle), Bit.coin vẫn là một trong những tài sản hiếm hoi mà mình muốn tích luỹ và để dành (cho bản thân hoặc cho con cháu).
+\- Mình có thể có góc nhìn lúc Bearish lúc Bullish khác nhau, nhưng khi nói về mục tiêu dài hạn (supercycle), Bitcoin vẫn là một trong những tài sản hiếm hoi mà mình muốn tích luỹ và để dành (cho bản thân hoặc cho con cháu).
 
 \- Mặc cho các sự kiện vĩ mô gần đây đã tạo ra áp lực rất lớn lên mọi thị trường nói chung và Bitcoin nói riêng, nhưng Bitcoin đã khiến giới đầu tư ngạc nhiên vì nó không còn ‘giật lên giật xuống’ bất chợt hay chạy theo tâm lý, vốn dễ bị hoảng loạn, của dân chơi crypto nữa. Bitcoin hiện tại vẫn đi ngang trong khoảng 19k-21k, ổn định như bao loại tài sản truyền thống khác, chứng tỏ nó được hỗ trợ giá rất mạnh từ những nhà đầu tư nhỏ và cả các quỹ lớn. Đặc biệt là ở quanh vùng 19k, có một lực mua rất lớn luôn hiện hữu, dữ liệu onchain cho thấy có ai đó luôn đợi sẵn Bitcoin ở vùng giá này để mua. Cho đến khi ‘người bí ẩn này’ còn gom hàng, Bitcoin vẫn còn giữ được vùng giá quanh 19k.
 
@@ -31,9 +31,8 @@ Tầm nhìn chiến lược & Bit.coin Maximalist
 
 Ví dụ:
 
-+ Trong điều kiện thị trường ổn định như 2019 và 2021 thì chúng ta tăng trọng lượng của tài sản đầu tư lên (bên cạnh gia tăng thêm một số ‘tài sản rủi ro’ khác để ăn theo xu hướng risk-on thị trường).
-
-+ Nếu điều kiện thị trường bất ổn như từ đầu 2022 (risk-off) thì chúng ta giảm tài sản này và thay thế bằng những danh mục ‘phòng thủ’ (defensive) khác như cash (USD), vàng, trái phiếu, cổ phiếu có cổ tức (dividend stocks) vv..
+* Trong điều kiện thị trường ổn định như 2019 và 2021 thì chúng ta tăng trọng lượng của tài sản đầu tư lên (bên cạnh gia tăng thêm một số ‘tài sản rủi ro’ khác để ăn theo xu hướng risk-on thị trường).
+* Nếu điều kiện thị trường bất ổn như từ đầu 2022 (risk-off) thì chúng ta giảm tài sản này và thay thế bằng những danh mục ‘phòng thủ’ (defensive) khác như cash (USD), vàng, trái phiếu, cổ phiếu có cổ tức (dividend stocks) vv..
 
 \*\*Điều này đã được mình lặp đi lặp lại nhiều lần trong các bài viết kể từ cuối 2021.
 
