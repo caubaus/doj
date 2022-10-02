@@ -4,7 +4,7 @@ type: crypto
 title: Tầm nhìn chiến lược & Bitcoin Maximalist
 subtitle: The strategic view  & Bitcoin Maximalist
 author: Trinh Nguyen Ba
-background: /img/uploads/btc-3.webp
+background: /img/uploads/1.png
 date: 2022-09-27T03:11:51.212Z
 ---
 <!--StartFragment-->
