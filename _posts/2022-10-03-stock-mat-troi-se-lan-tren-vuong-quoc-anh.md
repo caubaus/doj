@@ -103,4 +103,6 @@ Các phương pháp đầu tư an toàn của mình:
 
 [https://www.facebook.com/a3mlem](https://www.facebook.com/groups/887417781683922/user/100063836299243/?__cft__[0]=AZUeME91DVTZ2ommJjuY6oqPuteKQFBfm6XTO9FfW1akFAvXJpIAdrfBthpXUyYkKVVkYGrYCnf08vQhTGViZuSQU3D9bXaABupgG360Enocqx8d6C6ljzw8gWZ2S6nN7Dzt0TnnygQZi7gADHffo990OgXGC5XjfdM8YcQ8tFAiI3SB6yBl_sArhUQZrAixOCoxvp5EvevrNG4jLWPuKIe6&__tn__=-]K-y-R)
 
+*T﻿rinh Nguyen Ba*
+
 <!--EndFragment-->
